@@ -1,0 +1,1 @@
+php php-cs-fixer.phar fix --verbose --config=sf21 .

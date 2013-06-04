@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_DIRECTORY" value="false" />
+    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+  </component>
+  <component name="FindSettings">
+    <option name="SEARCH_OVERLOADED_METHODS" value="false" />
+    <option name="SEARCH_IN_LIBRARIES" value="false" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="false" />
+    <option name="FIND_DIRECTION" value="forward" />
+    <option name="FIND_ORIGIN" value="from_cursor" />
+    <option name="FIND_SCOPE" value="global" />
+    <option name="FIND_CUSTOM_SCOPE" />
+    <option name="CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="PRESERVE_CASE_REPLACE" value="false" />
+    <option name="WHOLE_WORDS_ONLY" value="false" />
+    <option name="COMMENTS_ONLY" value="false" />
+    <option name="STRING_LITERALS_ONLY" value="false" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
+    <option name="REGULAR_EXPRESSIONS" value="false" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
+    <option name="WITH_SUBDIRECTORIES" value="true" />
+    <option name="SEARCH_SCOPE" value="Favorite 'frontend'" />
+    <option name="FILE_MASK" value="*.html.twig" />
+    <option name="RECENT_FIND_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="createQueryBuilder" />
+          <item index="1" class="java.lang.String" itemvalue="-&gt;from('Gtt\Module\Pamm4\Entity\PammAccount', 'pa')" />
+          <item index="2" class="java.lang.String" itemvalue="getAmount" />
+          <item index="3" class="java.lang.String" itemvalue="pammIndicators" />
+          <item index="4" class="java.lang.String" itemvalue="count" />
+          <item index="5" class="java.lang.String" itemvalue="countPamm" />
+          <item index="6" class="java.lang.String" itemvalue="indexA" />
+          <item index="7" class="java.lang.String" itemvalue="listAc" />
+          <item index="8" class="java.lang.String" itemvalue="topRa" />
+          <item index="9" class="java.lang.String" itemvalue="pamm_counter" />
+          <item index="10" class="java.lang.String" itemvalue="trans" />
+          <item index="11" class="java.lang.String" itemvalue="charts" />
+          <item index="12" class="java.lang.String" itemvalue=" not at the page" />
+          <item index="13" class="java.lang.String" itemvalue="portfolio" />
+          <item index="14" class="java.lang.String" itemvalue="include" />
+          <item index="15" class="java.lang.String" itemvalue="pamm-relative" />
+          <item index="16" class="java.lang.String" itemvalue="зфьь6" />
+          <item index="17" class="java.lang.String" itemvalue="found" />
+          <item index="18" class="java.lang.String" itemvalue="get('gtt.pamm6_client" />
+          <item index="19" class="java.lang.String" itemvalue="get(&quot;gtt.pamm6_client" />
+          <item index="20" class="java.lang.String" itemvalue="gtt.pamm6_client" />
+          <item index="21" class="java.lang.String" itemvalue="eventl" />
+          <item index="22" class="java.lang.String" itemvalue="soap" />
+          <item index="23" class="java.lang.String" itemvalue="funds" />
+          <item index="24" class="java.lang.String" itemvalue="MonitoringService" />
+          <item index="25" class="java.lang.String" itemvalue="getPammAccount" />
+          <item index="26" class="java.lang.String" itemvalue="pamm6" />
+          <item index="27" class="java.lang.String" itemvalue="monitoringService" />
+          <item index="28" class="java.lang.String" itemvalue="Monitoring" />
+          <item index="29" class="java.lang.String" itemvalue="render " />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_REPLACE_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="@see " />
+          <item index="1" class="java.lang.String" itemvalue="$aWhite" />
+          <item index="2" class="java.lang.String" itemvalue="$loginHeight" />
+          <item index="3" class="java.lang.String" itemvalue="watched" />
+          <item index="4" class="java.lang.String" itemvalue="throw new \Exception" />
+          <item index="5" class="java.lang.String" itemvalue=":$1" />
+          <item index="6" class="java.lang.String" itemvalue="$1:$2" />
+          <item index="7" class="java.lang.String" itemvalue="jquery-easing-bundle" />
+          <item index="8" class="java.lang.String" itemvalue="gdsmith/jquery.easing" />
+          <item index="9" class="java.lang.String" itemvalue="FanforfunJqueryEasingBundle" />
+          <item index="10" class="java.lang.String" itemvalue="Fanforfun\JqueryEasingBundle" />
+          <item index="11" class="java.lang.String" itemvalue="JqueryEasingBundle" />
+          <item index="12" class="java.lang.String" itemvalue="ArrayCollection" />
+          <item index="13" class="java.lang.String" itemvalue=":" />
+          <item index="14" class="java.lang.String" itemvalue="getPammAccountRepository()" />
+          <item index="15" class="java.lang.String" itemvalue="ted \\$$1" />
+          <item index="16" class="java.lang.String" itemvalue="protected $" />
+          <item index="17" class="java.lang.String" itemvalue="public" />
+          <item index="18" class="java.lang.String" itemvalue="openOffer" />
+          <item index="19" class="java.lang.String" itemvalue="' | trans" />
+          <item index="20" class="java.lang.String" itemvalue="{{ '$1' | trans }" />
+          <item index="21" class="java.lang.String" itemvalue="{{ '$1' | trans }}" />
+          <item index="22" class="java.lang.String" itemvalue="({&quot;_inline&quot; : true})" />
+          <item index="23" class="java.lang.String" itemvalue="{&quot;_inline&quot;:true}" />
+          <item index="24" class="java.lang.String" itemvalue="true" />
+          <item index="25" class="java.lang.String" itemvalue="афдыу" />
+          <item index="26" class="java.lang.String" itemvalue="false" />
+          <item index="27" class="java.lang.String" itemvalue="pammIndicators" />
+          <item index="28" class="java.lang.String" itemvalue="pammStats" />
+          <item index="29" class="java.lang.String" itemvalue=" not implemented yet" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_DIR_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/VRASBundle/Resources/config" />
+          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/VRASAdminBundle/ListTable/Type/Spr" />
+          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/app/Resources/views" />
+          <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/VRASDispatcherBundle/Resources/views/Event" />
+          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/vendor/genemu/form-bundle/Genemu/Bundle/FormBundle" />
+          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/VRASBundle/Resources/" />
+          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/VRASBundle/Resources/public" />
+          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/VRASBundle/Resources/public/js" />
+          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/VRASBundle/DataFixtures/ORM/Fake" />
+          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/VRASBundle" />
+          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/VRASBundle/Resources/public/css" />
+          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft" />
+          <item index="12" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/VRASBundle/DataFixtures/ORM" />
+          <item index="13" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/VRASBundle/Entity" />
+          <item index="14" class="java.lang.String" itemvalue="$USER_HOME$/web/sochi/src/Ironsoft/VRASBundle/Resources/public/css" />
+          <item index="15" class="java.lang.String" itemvalue="$USER_HOME$/web/sochi/src/Ironsoft/VRASBundle/Resources/config/doctrine" />
+          <item index="16" class="java.lang.String" itemvalue="$USER_HOME$/web/sochi/src/Ironsoft/VRASBundle" />
+          <item index="17" class="java.lang.String" itemvalue="$USER_HOME$/web/sochi/src/Ironsoft" />
+          <item index="18" class="java.lang.String" itemvalue="$USER_HOME$/web/anal/src/IronSoft/Analytics/ISBundle" />
+          <item index="19" class="java.lang.String" itemvalue="$USER_HOME$/web/mitsu/src/Sarmotors/MitsuBundle" />
+          <item index="20" class="java.lang.String" itemvalue="$USER_HOME$/web/mitsu/src/Sarmotors/MitsuBundle/Resources/public/css" />
+          <item index="21" class="java.lang.String" itemvalue="$USER_HOME$/web/vr-as/src/Ironsoft/" />
+          <item index="22" class="java.lang.String" itemvalue="H:\Projects\site-ru\app\config" />
+          <item index="23" class="java.lang.String" itemvalue="H:\Projects\os" />
+          <item index="24" class="java.lang.String" itemvalue="H:\Projects\s-ru\vendor\bundles\Gtt" />
+          <item index="25" class="java.lang.String" itemvalue="H:\Projects\my-ru\src" />
+          <item index="26" class="java.lang.String" itemvalue="H:\Projects\my-ru\vendor\bundles\Gtt" />
+          <item index="27" class="java.lang.String" itemvalue="H:\Projects\s-ru\src\Gtt\Pamm6\Resources\public\js" />
+          <item index="28" class="java.lang.String" itemvalue="H:\Projects\s-ru\src\Gtt\Pamm6\Tests\Dto" />
+          <item index="29" class="java.lang.String" itemvalue="H:\Projects\s-ru\src\Gtt\Pamm6\Resources\" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_FILE_MASKS">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="*.properties" />
+          <item index="1" class="java.lang.String" itemvalue="*.html" />
+          <item index="2" class="java.lang.String" itemvalue="*.jsp" />
+          <item index="3" class="java.lang.String" itemvalue="*.xml" />
+          <item index="4" class="java.lang.String" itemvalue="*.java" />
+          <item index="5" class="java.lang.String" itemvalue="*.as" />
+          <item index="6" class="java.lang.String" itemvalue="*.css" />
+          <item index="7" class="java.lang.String" itemvalue="*.mxml" />
+          <item index="8" class="java.lang.String" itemvalue="*.twig.html" />
+          <item index="9" class="java.lang.String" itemvalue="*.sass" />
+          <item index="10" class="java.lang.String" itemvalue="*.js" />
+          <item index="11" class="java.lang.String" itemvalue="*.yml" />
+          <item index="12" class="java.lang.String" itemvalue="*.php" />
+          <item index="13" class="java.lang.String" itemvalue="*.html.twig" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="false" />
+    <option name="USE_HTTP_PROXY" value="false" />
+    <option name="USE_PROXY_PAC" value="false" />
+    <option name="PROXY_HOST" value="" />
+    <option name="PROXY_PORT" value="80" />
+    <option name="PROXY_AUTHENTICATION" value="false" />
+    <option name="PROXY_LOGIN" value="" />
+    <option name="PROXY_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_PROXY_PASSWORD" value="false" />
+    <option name="myGenericPasswords">
+      <map />
+    </option>
+    <option name="myGenericCancelled">
+      <set />
+    </option>
+    <option name="PROXY_EXCEPTIONS" value="" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FIELD" value="true" />
+  </component>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="H:\Projects\s-ru" />
+        <option value="H:\Projects\my-ru" />
+        <option value="H:\Projects\halo-symfony" />
+        <option value="H:\Projects\si-ru" />
+        <option value="H:\Projects\pamm4-module" />
+        <option value="H:\Projects\site-ru" />
+        <option value="H:\Projects\os" />
+        <option value="$USER_HOME$/web/vr-as" />
+        <option value="$USER_HOME$/web/sochi" />
+        <option value="$USER_HOME$/web/anal" />
+        <option value="$USER_HOME$/web/mitsu" />
+        <option value="$USER_HOME$/web/jquery-easing-bundle" />
+        <option value="$USER_HOME$/web/select2-bundle" />
+        <option value="$USER_HOME$/web/leaflet-bundle" />
+        <option value="$USER_HOME$/web/jquery-meiomask-bundle" />
+        <option value="$USER_HOME$/web/eyecon-datepicker-bundle" />
+        <option value="$USER_HOME$/web/vr-as2" />
+        <option value="$USER_HOME$/web/hautelook/symfony" />
+        <option value="$USER_HOME$/web/play-catalog-template" />
+        <option value="$USER_HOME$/web/_gosplan" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="H:\Projects\s-ru" />
+      </list>
+    </option>
+    <option name="names">
+      <map>
+        <entry key="$USER_HOME$/web/_gosplan" value="" />
+        <entry key="$USER_HOME$/web/anal" value="" />
+        <entry key="$USER_HOME$/web/eyecon-datepicker-bundle" value="" />
+        <entry key="$USER_HOME$/web/hautelook/symfony" value="" />
+        <entry key="$USER_HOME$/web/jquery-easing-bundle" value="" />
+        <entry key="$USER_HOME$/web/jquery-meiomask-bundle" value="" />
+        <entry key="$USER_HOME$/web/leaflet-bundle" value="" />
+        <entry key="$USER_HOME$/web/mitsu" value="" />
+        <entry key="$USER_HOME$/web/play-catalog-template" value="" />
+        <entry key="$USER_HOME$/web/select2-bundle" value="" />
+        <entry key="$USER_HOME$/web/sochi" value="" />
+        <entry key="$USER_HOME$/web/vr-as2" value="" />
+        <entry key="H:\Projects\halo-symfony" value="" />
+        <entry key="H:\Projects\my-ru" value="" />
+        <entry key="H:\Projects\os" value="" />
+        <entry key="H:\Projects\pamm4-module" value="" />
+        <entry key="H:\Projects\s-ru" value="" />
+        <entry key="H:\Projects\si-ru" value="" />
+        <entry key="H:\Projects\site-ru" value="" />
+      </map>
+    </option>
+    <option name="lastPath" value="H:\Projects\s-ru" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://ironsoft-jira.atlassian.net">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfd9dfc1dfd8dfc3dfc6dfe6dfcfdfd2df9ddfdf</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>sergey.bondar</username>
+    </JIRA>
+  </component>
+  <component name="Registry">
+    <entry key="ide.firstStartup" value="false" />
+    <entry key="ide.tooltip.initialDelay" value="417" />
+  </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="TAB" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="bc9458" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="bc9458" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="false" case-sensitive="false" pattern="{#\s+todo\b">
+      <option name="FOREGROUND" value="bc9458" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\brefactor\b.*">
+      <option name="FOREGROUND" value="bc5717" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+  </component>
+  <component name="UpdatesConfigurable">
+    <option name="myPluginHosts">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myKnownUpdateChannels">
+      <value>
+        <list size="7">
+          <item index="0" class="java.lang.String" itemvalue="WI1" />
+          <item index="1" class="java.lang.String" itemvalue="WI2" />
+          <item index="2" class="java.lang.String" itemvalue="WI3" />
+          <item index="3" class="java.lang.String" itemvalue="WI4" />
+          <item index="4" class="java.lang.String" itemvalue="WI5" />
+          <item index="5" class="java.lang.String" itemvalue="WI6" />
+          <item index="6" class="java.lang.String" itemvalue="EAP" />
+        </list>
+      </value>
+    </option>
+    <option name="myIgnoredBuildNumbers">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="129.487" />
+        </list>
+      </value>
+    </option>
+    <option name="CHECK_NEEDED" value="true" />
+    <option name="LAST_TIME_CHECKED" value="1377756382263" />
+    <option name="LAST_BUILD_CHECKED" value="PS-129.814" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+  </component>
+  <component name="UsageViewSettings">
+    <option name="filterDuplicatedLine" value="true" />
+    <option name="IS_FILTER_DUPLICATED_LINE" value="true" />
+  </component>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SHOW_IN_TOOLBAR" value="true" />
+    <option name="SHOW_IN_MAIN_MENU" value="true" />
+    <option name="OPEN_NEW_TAB" value="false" />
+    <option name="HIGHLIGHT_RESULTS" value="true" />
+    <option name="SHOW_USAGE_VIEW" value="false" />
+    <option name="SEARCH_SCOPE">
+      <value type="PROJECT" />
+    </option>
+    <option name="MATCH_RECURSIVELY" value="false" />
+    <option name="attributes">
+      <value>
+        <option name="BACKGROUND" value="ffd578" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="contextAttributes">
+      <value>
+        <option name="BACKGROUND" value="c2ffd4" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="scrollToFirst" value="true" />
+    <option name="bUseContextAtCursor" value="true" />
+    <option name="bHighlightStartTagOnly" value="true" />
+    <option name="bAddErrorStripe" value="true" />
+  </component>
+  <component name="XSLT-Support.Configuration">
+    <option name="SHOW_LINKED_FILES" value="true" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>
+

@@ -1,0 +1,79 @@
+[help]
+	autocorrect = 1
+[rerere]
+	enabled = 1
+[user]
+	name = marapper
+	email = msnre@yandex.ru
+[alias]
+    aa = add --all
+    bl = branch -vva
+    fixup = commit --amend -C HEAD
+    remote = remote -v
+    unstage = reset HEAD
+    co = checkout
+    br = branch
+    df = diff
+    lg = log -p
+    rb = rebase
+    ci = commit -v
+    st = status
+    pi = cherry-pick
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	changes=diff --name-status -r
+    diffstat=diff --stat -r
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit
+	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+	ls = ls-files
+	ign = ls-files -o -i --exclude-standard
+    llog = log --date=local
+    plog = log --pretty=format:'%h %Cblue%cn %Creset%cr %Cgreen%s'
+    gitkconflict = !gitk --left-right HEAD...MERGE_HEAD
+    type = cat-file -t
+    dump = cat-file -p
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[color "diff"]
+	plain = normal
+	meta = bold
+	frag = cyan
+	old = red
+	new = green
+	commit = yellow
+	whitespace = normal red
+[color "branch"]
+	current = green
+	local = normal
+	remote = red
+	plain = normal
+[color "status"]
+	header = yellow
+	added = magenta yellow
+	updated = green reverse
+	changed = red bold
+	untracked = blue white
+	nobranch = red white bold
+[color "grep"]
+	match = normal
+[color "interactive"]
+	prompt = normal
+	header = normal
+	help = normal
+	error = normal
+[core]
+	editor = nano
+    autocrlf = true
+    safecrlf = false
+    eol = lf
+    whitespace = trailing-space, space-before-tab, cr-at-eol
+[commit]
+	template = /home/sergey/.gitmessage.txt
+[init]
+	templatedir = ~/.git_template
+[remote "origin"]
+	fetch = +refs/pull/*/head:refs/remotes/origin/pr/*
+[merge]
+	tool = meld

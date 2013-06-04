@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-libraries-roots" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sergey/web/anal/.idea/anal.iml" timestamp="1375201827000" />
+    <file path="/home/sergey/web/anal/.idea/codeStyleSettings.xml" timestamp="1360316818000" />
+    <file path="/home/sergey/web/anal/.idea/dictionaries/sergey.xml" timestamp="1366894249000" />
+    <file path="/home/sergey/web/anal/.idea/encodings.xml" timestamp="1363952628000" />
+    <file path="/home/sergey/web/anal/.idea/frameworkRootSettings.xml" timestamp="1366377724000" />
+    <file path="/home/sergey/web/anal/.idea/inspectionProfiles/Project_Default.xml" timestamp="1360316817000" />
+    <file path="/home/sergey/web/anal/.idea/inspectionProfiles/profiles_settings.xml" timestamp="1360316817000" />
+    <file path="/home/sergey/web/anal/.idea/libraries/sass_stdlib.xml" timestamp="1360316818000" />
+    <file path="/home/sergey/web/anal/.idea/misc.xml" timestamp="1370948802000" />
+    <file path="/home/sergey/web/anal/.idea/modules.xml" timestamp="1360318251000" />
+    <file path="/home/sergey/web/anal/.idea/scopes/scope_settings.xml" timestamp="1360316817000" />
+    <file path="/home/sergey/web/anal/.idea/sqldialects.xml" timestamp="1360316817000" />
+    <file path="/home/sergey/web/anal/.idea/vcs.xml" timestamp="1360316817000" />
+    <file path="/home/sergey/web/anal/.idea/workspace.xml" timestamp="1375305567000" />
+  </project-files>
+</conversion>
+

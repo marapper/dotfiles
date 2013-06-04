@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sergey/web/analytics/.idea/analytics.iml" timestamp="1358163644000" />
+    <file path="/home/sergey/web/analytics/.idea/codeStyleSettings.xml" timestamp="1360148806000" />
+    <file path="/home/sergey/web/analytics/.idea/encodings.xml" timestamp="1354235489000" />
+    <file path="/home/sergey/web/analytics/.idea/frameworkRootSettings.xml" timestamp="1360315287000" />
+    <file path="/home/sergey/web/analytics/.idea/inspectionProfiles/Project_Default.xml" timestamp="1356310204000" />
+    <file path="/home/sergey/web/analytics/.idea/inspectionProfiles/profiles_settings.xml" timestamp="1356310204000" />
+    <file path="/home/sergey/web/analytics/.idea/libraries/sass_stdlib.xml" timestamp="1354235494000" />
+    <file path="/home/sergey/web/analytics/.idea/misc.xml" timestamp="1354240781000" />
+    <file path="/home/sergey/web/analytics/.idea/modules.xml" timestamp="1354235489000" />
+    <file path="/home/sergey/web/analytics/.idea/scopes/scope_settings.xml" timestamp="1354235489000" />
+    <file path="/home/sergey/web/analytics/.idea/sqldialects.xml" timestamp="1356311698000" />
+    <file path="/home/sergey/web/analytics/.idea/vcs.xml" timestamp="1354235489000" />
+    <file path="/home/sergey/web/analytics/.idea/workspace.xml" timestamp="1360315147000" />
+  </project-files>
+</conversion>
+

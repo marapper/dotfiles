@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-libraries-roots" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sergey/web/vr-as2/.idea/VR-AS.iml" timestamp="1371128131000" />
+    <file path="/home/sergey/web/vr-as2/.idea/codeStyleSettings.xml" timestamp="1347952600000" />
+    <file path="/home/sergey/web/vr-as2/.idea/cssxfire.xml" timestamp="1340733655000" />
+    <file path="/home/sergey/web/vr-as2/.idea/dataSources.xml" timestamp="1370105558000" />
+    <file path="/home/sergey/web/vr-as2/.idea/dictionaries/sergey.xml" timestamp="1371199535000" />
+    <file path="/home/sergey/web/vr-as2/.idea/encodings.xml" timestamp="1340733655000" />
+    <file path="/home/sergey/web/vr-as2/.idea/frameworkRootSettings.xml" timestamp="1366698460000" />
+    <file path="/home/sergey/web/vr-as2/.idea/jsLinters/jshint.xml" timestamp="1351109928000" />
+    <file path="/home/sergey/web/vr-as2/.idea/jsLinters/jslint.xml" timestamp="1351090670000" />
+    <file path="/home/sergey/web/vr-as2/.idea/libraries/sass_stdlib.xml" timestamp="1351091944000" />
+    <file path="/home/sergey/web/vr-as2/.idea/misc.xml" timestamp="1340736875000" />
+    <file path="/home/sergey/web/vr-as2/.idea/modules.xml" timestamp="1350044702000" />
+    <file path="/home/sergey/web/vr-as2/.idea/scopes/scope_settings.xml" timestamp="1340733655000" />
+    <file path="/home/sergey/web/vr-as2/.idea/vcs.xml" timestamp="1340733655000" />
+    <file path="/home/sergey/web/vr-as2/.idea/workspace.xml" timestamp="1371724649000" />
+  </project-files>
+</conversion>
+

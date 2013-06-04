@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e28531c1-8ed2-44a9-abe8-c0135ad027dd" name="My-ru" url="http://my-ru.sbondar.dev.alpari-ru.dom/ru">
+        <fileTransfer host="sbondar.dev.alpari-ru.dom" port="22" privateKey="H:\marapper.ppk" rootFolder="/home/sbondar/www40/my-ru" accessType="SFTP" username="sbondar" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4de6f3b8-2b56-441a-b973-d9a00cb9757e" name="site-ru" url="http://site-ru.sbondar.dev.alpari-ru.dom/ru">
+        <fileTransfer host="sbondar.dev.alpari-ru.dom" port="22" privateKey="H:\marapper.ppk" rootFolder="/home/sbondar/www40/site-ru" accessType="SFTP" username="sbondar" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
+

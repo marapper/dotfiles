@@ -1,0 +1,1 @@
+PGPASSWORD="password" psql -h host -p port -U username database -f input_file

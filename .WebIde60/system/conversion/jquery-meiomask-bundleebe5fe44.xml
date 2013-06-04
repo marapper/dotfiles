@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-libraries-roots" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sergey/web/jquery-meiomask-bundle/.idea/encodings.xml" timestamp="1371811158000" />
+    <file path="/home/sergey/web/jquery-meiomask-bundle/.idea/jquery-meiomask-bundle.iml" timestamp="1371811158000" />
+    <file path="/home/sergey/web/jquery-meiomask-bundle/.idea/misc.xml" timestamp="1371811159000" />
+    <file path="/home/sergey/web/jquery-meiomask-bundle/.idea/modules.xml" timestamp="1371811158000" />
+    <file path="/home/sergey/web/jquery-meiomask-bundle/.idea/scopes/scope_settings.xml" timestamp="1371811159000" />
+    <file path="/home/sergey/web/jquery-meiomask-bundle/.idea/vcs.xml" timestamp="1371811158000" />
+    <file path="/home/sergey/web/jquery-meiomask-bundle/.idea/workspace.xml" timestamp="1372089483000" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-libraries-roots" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="H:\Projects\site-ru\.idea\dictionaries\Sergey_Bondar.xml" timestamp="1377244503038" />
+    <file path="H:\Projects\site-ru\.idea\encodings.xml" timestamp="1377240198929" />
+    <file path="H:\Projects\site-ru\.idea\frameworkRootSettings.xml" timestamp="1377244462948" />
+    <file path="H:\Projects\site-ru\.idea\misc.xml" timestamp="1377244503014" />
+    <file path="H:\Projects\site-ru\.idea\modules.xml" timestamp="1377240198910" />
+    <file path="H:\Projects\site-ru\.idea\scopes\scope_settings.xml" timestamp="1377240198802" />
+    <file path="H:\Projects\site-ru\.idea\site-ru.iml" timestamp="1377244462919" />
+    <file path="H:\Projects\site-ru\.idea\vcs.xml" timestamp="1377240366363" />
+    <file path="H:\Projects\site-ru\.idea\workspace.xml" timestamp="1377263567643" />
+  </project-files>
+</conversion>
+

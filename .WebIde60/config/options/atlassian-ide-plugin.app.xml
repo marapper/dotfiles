@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="atlassian-ide-plugin">
+    <option name="JIRAConfigurationData">
+      <JiraConfigurationBean>
+        <option name="pageSize" value="150" />
+      </JiraConfigurationBean>
+    </option>
+    <option name="bambooConfigurationData">
+      <BambooConfigurationBean>
+        <option name="bambooTooltipOption" value="Never" />
+      </BambooConfigurationBean>
+    </option>
+    <option name="generalConfigurationData">
+      <GeneralConfigurationBean>
+        <option name="anonymousEnhancedFeedbackEnabled" value="false" />
+        <option name="statsCountersMap">
+          <map>
+            <entry key="a" value="0" />
+            <entry key="b" value="0" />
+            <entry key="i" value="0" />
+            <entry key="r" value="0" />
+          </map>
+        </option>
+        <option name="uid" value="1370111488350" />
+      </GeneralConfigurationBean>
+    </option>
+  </component>
+</application>
+

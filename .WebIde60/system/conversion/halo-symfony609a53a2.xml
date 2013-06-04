@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-libraries-roots" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="H:\Projects\halo-symfony\.idea\dictionaries\Sergey_Bondar.xml" timestamp="1377523773147" />
+    <file path="H:\Projects\halo-symfony\.idea\encodings.xml" timestamp="1377523641098" />
+    <file path="H:\Projects\halo-symfony\.idea\frameworkRootSettings.xml" timestamp="1377524532490" />
+    <file path="H:\Projects\halo-symfony\.idea\halo-symfony.iml" timestamp="1377523640985" />
+    <file path="H:\Projects\halo-symfony\.idea\misc.xml" timestamp="1377524204820" />
+    <file path="H:\Projects\halo-symfony\.idea\modules.xml" timestamp="1377523641090" />
+    <file path="H:\Projects\halo-symfony\.idea\scopes\scope_settings.xml" timestamp="1377523641080" />
+    <file path="H:\Projects\halo-symfony\.idea\vcs.xml" timestamp="1377523641107" />
+    <file path="H:\Projects\halo-symfony\.idea\workspace.xml" timestamp="1377609250754" />
+  </project-files>
+</conversion>
+

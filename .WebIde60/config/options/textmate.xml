@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="TextMateSettings">
+    <option name="themesMapping">
+      <map>
+        <entry key="AllHallowsEve" value="AllHallowsEve" />
+        <entry key="Blackboard" value="Blackboard" />
+        <entry key="Cobalt" value="Cobalt" />
+        <entry key="Darcula" value="Darcula" />
+        <entry key="Dark Pastels" value="Mac Classic" />
+        <entry key="Default" value="Mac Classic" />
+        <entry key="Eli's" value="Mac Classic" />
+        <entry key="Eli's Color Scheme" value="Mac Classic" />
+        <entry key="Eli's Dark" value="Mac Classic" />
+        <entry key="LessVibrantInk" value="Mac Classic" />
+        <entry key="Mavenlink" value="Mac Classic" />
+        <entry key="Molokai" value="Mac Classic" />
+        <entry key="Monokai" value="Monokai" />
+        <entry key="Monokai-Sublime" value="Mac Classic" />
+        <entry key="Moray" value="Mac Classic" />
+        <entry key="Nico" value="Mac Classic" />
+        <entry key="Railscasts" value="Mac Classic" />
+        <entry key="Tubster" value="Mac Classic" />
+        <entry key="Twilight" value="Twilight" />
+        <entry key="Twilighted" value="Mac Classic" />
+        <entry key="VibrantInk" value="Mac Classic" />
+        <entry key="WarmNeon" value="Mac Classic" />
+        <entry key="colorblind" value="Mac Classic" />
+        <entry key="custom" value="Mac Classic" />
+        <entry key="green-chaud" value="Mac Classic" />
+        <entry key="snowblind" value="Mac Classic" />
+        <entry key="thinmint" value="Mac Classic" />
+      </map>
+    </option>
+  </component>
+</application>
+

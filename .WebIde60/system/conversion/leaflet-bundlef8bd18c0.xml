@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-libraries-roots" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sergey/web/leaflet-bundle/.idea/dictionaries/sergey.xml" timestamp="1372088694000" />
+    <file path="/home/sergey/web/leaflet-bundle/.idea/encodings.xml" timestamp="1372088435000" />
+    <file path="/home/sergey/web/leaflet-bundle/.idea/leaflet-bundle.iml" timestamp="1372088434000" />
+    <file path="/home/sergey/web/leaflet-bundle/.idea/misc.xml" timestamp="1372088435000" />
+    <file path="/home/sergey/web/leaflet-bundle/.idea/modules.xml" timestamp="1372088434000" />
+    <file path="/home/sergey/web/leaflet-bundle/.idea/scopes/scope_settings.xml" timestamp="1372088434000" />
+    <file path="/home/sergey/web/leaflet-bundle/.idea/vcs.xml" timestamp="1372088435000" />
+    <file path="/home/sergey/web/leaflet-bundle/.idea/workspace.xml" timestamp="1372091171000" />
+  </project-files>
+</conversion>
+

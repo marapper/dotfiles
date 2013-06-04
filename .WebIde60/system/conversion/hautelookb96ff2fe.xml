@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-libraries-roots" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sergey/web/hautelook/.idea/encodings.xml" timestamp="1359470184000" />
+    <file path="/home/sergey/web/hautelook/.idea/frameworkRootSettings.xml" timestamp="1361280076000" />
+    <file path="/home/sergey/web/hautelook/.idea/hautelook.iml" timestamp="1363936658000" />
+    <file path="/home/sergey/web/hautelook/.idea/misc.xml" timestamp="1359470184000" />
+    <file path="/home/sergey/web/hautelook/.idea/modules.xml" timestamp="1359470184000" />
+    <file path="/home/sergey/web/hautelook/.idea/scopes/scope_settings.xml" timestamp="1359470184000" />
+    <file path="/home/sergey/web/hautelook/.idea/vcs.xml" timestamp="1359470184000" />
+    <file path="/home/sergey/web/hautelook/.idea/workspace.xml" timestamp="1363968099000" />
+  </project-files>
+</conversion>
+

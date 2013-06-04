@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.1600.-180.1920.1080" x="2035" y="145" />
+    <location key="git4idea.merge.GitPullDialog.1600.-180.1920.1080" x="2054" y="32" />
+    <location key="MultipleFileMergeDialog.0.0.1600.900" x="363" y="162" />
+    <location key="ftp.server.browser.0.0.1600.900" x="840" y="129" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.1600.-180.1920.1080" x="2073" y="273" />
+    <location key="replaceTextDialog.0.0.1367.770" x="494" y="126" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="384" y="181" />
+    <location key="MultipleFileMergeDialog.0.0.1366.768" x="205" y="189" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1366.768" x="472" y="99" />
+    <location key="OptionsEditor.1920.0.1366.768" x="1986" y="0" />
+    <location key="com.jetbrains.plugins.webDeployment.ui.AdvancedOptionsDialog.0.0.1600.900" x="625" y="338" />
+    <location key="RollbackChangesDialog.0.0.1600.900" x="348" y="162" />
+    <location key="DiffWindow.0.0.1600.900" x="51" y="100" />
+    <location key="#DBGp_Proxy.0.0.1367.770" x="555" y="302" />
+    <location key="OptionsEditor.0.0.1366.768" x="103" y="95" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1600.900" x="505" y="359" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="439" y="268" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="488" y="92" />
+    <location key="ProcessPopupWindow.1600.-180.1920.1080" x="2831" y="423" />
+    <location key="#Browse_Repositories.0.0.1367.770" x="289" y="38" />
+    <location key="DiffWindow.1600.-180.1920.1080" x="1863" y="-10" />
+    <location key="#Framework_Integration.0.0.1600.900" x="619" y="366" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="712" y="387" />
+    <location key="OptionsEditor.0.0.1600.900" x="360" y="17" />
+    <location key="ProcessPopupWindow.0.0.1367.770" x="951" y="518" />
+    <location key="webDeployment.PermissionsDialog.0.0.1600.900" x="683" y="298" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1367.770" x="545" y="9" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="1922" y="438" />
+    <location key="replaceTextDialog.1600.-180.1920.1080" x="2346" y="88" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" x="545" y="9" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1366.768" x="158" y="100" />
+    <location key="WELCOME_SCREEN.1600.-180.1920.1080" x="731" y="303" />
+    <location key="findTextDialog.0.0.1600.900" x="581" y="186" />
+    <location key="git4idea.merge.GitMergeDialog.0.0.1366.768" x="475" y="181" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1600.900" x="431" y="258" />
+    <location key="com.intellij.javaee.module.view.dataSource.DataSourcePropertiesDialog.0.0.1367.770" x="443" y="21" />
+    <location key="com.intellij.persistence.run.ColumnFilterDialog.0.0.1366.768" x="462" y="132" />
+    <location key="ProcessPopupWindow.0.0.1600.900" x="999" y="557" />
+    <location key="CommitChangelistDialog.0.0.1366.768" x="333" y="29" />
+    <location key="NewPhpClassDialog.0.0.1600.900" x="619" y="244" />
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="579" y="151" />
+    <location key="git4idea.ui.GitResetDialog.1600.-180.1920.1080" x="2090" y="140" />
+    <location key="#Atlassian_Connector.0.0.1366.768" x="295" y="0" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.900" x="347" y="219" />
+    <location key="#Atlassian_Connector.0.0.1367.770" x="295" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="2690" y="302" />
+    <location key="#Framework_Integration.0.0.1366.768" x="524" y="328" />
+    <location key="OptionsEditor.1600.-180.1920.1080" x="269" y="96" />
+    <location key="replaceTextDialog.0.0.1600.900" x="586" y="158" />
+    <location key="RollbackChangesDialog.1600.-180.1920.1080" x="2391" y="47" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="957" y="544" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.1600.-180.1920.1080" x="2343" y="208" />
+    <location key="#Framework_Integration.1600.-180.1920.1080" x="2552" y="327" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="523" y="117" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1366.768" x="345" y="319" />
+    <location key="#Browse_JetBrains_Plugins_.1600.-180.1920.1080" x="2294" y="115" />
+    <location key="#Proxy.0.0.1367.770" x="511" y="116" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1600.900" x="496" y="49" />
+    <location key="replaceTextDialog.0.0.1366.768" x="795" y="255" />
+    <location key="findTextDialog.1600.-180.1920.1080" x="2351" y="116" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1366.768" x="495" y="98" />
+    <location key="WELCOME_SCREEN.0.0.1367.770" x="680" y="302" />
+    <location key="findTextDialog.0.0.1366.768" x="585" y="295" />
+    <location key="findTextDialog.0.0.1367.770" x="494" y="152" />
+    <location key="#Editor.0.0.1600.900" x="738" y="73" />
+    <location key="FileChooserDialogImpl.1920.0.1366.768" x="2470" y="220" />
+    <location key="DiffWindow.0.0.1366.768" x="158" y="110" />
+    <location key="WELCOME_SCREEN.1920.0.1366.768" x="2603" y="387" />
+    <location key="FileChooserDialogImpl.0.0.1367.770" x="474" y="283" />
+    <location key="FileChooserDialogImpl.1600.-180.1920.1080" x="2339" y="31" />
+    <location key="OptionsEditor.0.0.1367.770" x="92" y="0" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1600.900" x="471" y="155" />
+    <size key="com.intellij.persistence.run.ColumnFilterDialog.0.0.1366.768" width="493" height="501" />
+    <size key="ProcessPopupWindow.0.0.1600.900" width="399" height="215" />
+    <size key="CommitChangelistDialog.0.0.1366.768" width="758" height="719" />
+    <size key="#Atlassian_Connector.0.0.1366.768" width="828" height="768" />
+    <size key="javadoc.popup.0.0.1600.900" width="502" height="128" />
+    <size key="javadoc.popup.0.0.1366.768" width="502" height="124" />
+    <size key="#Atlassian_Connector.0.0.1367.770" width="910" height="768" />
+    <size key="OptionsEditor.1600.-180.1920.1080" width="1240" height="653" />
+    <size key="#Framework_Integration.0.0.1366.768" width="369" height="137" />
+    <size key="replaceTextDialog.0.0.1367.770" width="429" height="513" />
+    <size key="MultipleFileMergeDialog.0.0.1366.768" width="605" height="516" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" width="644" height="399" />
+    <size key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1366.768" width="480" height="570" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="409" height="192" />
+    <size key="OptionsEditor.1920.0.1366.768" width="1228" height="765" />
+    <size key="DiffWindow.0.0.1600.900" width="1549" height="660" />
+    <size key="#DBGp_Proxy.0.0.1367.770" width="307" height="161" />
+    <size key="#Framework_Integration.1600.-180.1920.1080" width="419" height="221" />
+    <size key="OptionsEditor.0.0.1366.768" width="990" height="601" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" width="378" height="533" />
+    <size key="ReplaceDuplicatesPrompt.0.0.1366.768" width="734" height="130" />
+    <size key="#Proxy.0.0.1367.770" width="383" height="530" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" width="539" height="229" />
+    <size key="replaceTextDialog.0.0.1366.768" width="429" height="513" />
+    <size key="VCS.ChangeListViewerDialog.0.0.1366.768" width="428" height="569" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="428" height="485" />
+    <size key="ProcessPopupWindow.1600.-180.1920.1080" width="482" height="293" />
+    <size key="#Browse_Repositories.0.0.1367.770" width="828" height="685" />
+    <size key="DiffWindow.1600.-180.1920.1080" width="1395" height="822" />
+    <size key="#Framework_Integration.0.0.1600.900" width="342" height="156" />
+    <size key="findTextDialog.0.0.1367.770" width="429" height="461" />
+    <size key="findTextDialog.0.0.1366.768" width="429" height="461" />
+    <size key="FileChooserDialogImpl.1920.0.1366.768" width="428" height="485" />
+    <size key="OptionsEditor.0.0.1600.900" width="1240" height="861" />
+    <size key="DiffWindow.0.0.1366.768" width="1108" height="528" />
+    <size key="ProcessPopupWindow.0.0.1367.770" width="412" height="250" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1367.770" width="328" height="746" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" width="328" height="746" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1366.768" width="1108" height="568" />
+    <size key="FileChooserDialogImpl.0.0.1367.770" width="428" height="485" />
+    <size key="git4idea.merge.GitMergeDialog.0.0.1366.768" width="468" height="402" />
+    <size key="com.intellij.javaee.module.view.dataSource.DataSourcePropertiesDialog.0.0.1367.770" width="532" height="723" />
+    <size key="OptionsEditor.0.0.1367.770" width="1228" height="765" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="DiffWindow" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="idea.dark.laf.classname" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="file.colors.enable.non.project" value="494539" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="MemberChooser.showClasses" value="false" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0.0" />
+    <property name="FileTemplates.SelectedTemplate" value="PHP Class Doc Comment" />
+    <property name="null.splitter" value="0.3" />
+    <property name="JSHintOptionsTreeView.RIGHT_DIVIDER_PROPORTION" value="0.7" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_" value="0.8" />
+    <property name="Non-Project Files" value="494539" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="installation.uid" value="2a53fd8f-8d70-49b9-8ab5-cf74034fa92d" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="56.0" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20.0" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="JSHintOptionsTreeView.MAIN_DIVIDER_PROPORTION" value="0.7" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="file.chooser.recent.files" value="H:/Projects/my-ru/vendor/bundles/Gtt&#10;H:/Projects/my-ru/src&#10;H:/Projects/s-ru/vendor/bundles/Gtt&#10;H:/Projects/s-ru/app/phpunit.xml.dist&#10;C:/php/phpcs.bat&#10;H:/Projects/halo-symfony&#10;H:/Projects/pamm4-module&#10;H:/Projects/os&#10;H:/marapper.ppk&#10;H:/insecure_private_key&#10;H:/marapper&#10;H:/Projects&#10;C:/Users/Sergey.Bondar/web/sochi&#10;/home/sergey/web/jquery-easing-bundle&#10;/home/sergey/web/select2-bundle&#10;/home/sergey/web/leaflet-bundle&#10;/home/sergey/web/eyecon-datepicker-bundle&#10;/home/sergey/web/jquery-meiomask-bundle&#10;/home/sergey/web/vr-as2&#10;/home/sergey/web/vr-as&#10;/home/sergey/web/anal&#10;/home/sergey/soft/phpstorm&#10;/home/sergey/soft/phpstorm/plugins&#10;/home/sergey/web/mitsu&#10;/home/sergey/web/play-catalog-template&#10;/home/sergey/web/_gosplan&#10;/home/sergey/web/hautelook/symfony" />
+    <property name="LayoutCode.rearrangeEntries" value="false" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="ColorChooser.RecentColors" value="150-150-150-255,,,92-92-92-255,,,255-178-181-255,,,69-69-69-255,,,156-0-13-255,,,69-76-96-255,,,188-66-10-255,,,144-144-144-255,,,151-0-0-255,,,184-29-28-255,,,87-14-13-255,,,111-37-27-255,,,52-17-13-255,,,71-23-18-255,,,255-255-0-255,,,17-1-1-255,,,255-154-24-255,,,183-178-181-255,,,255-158-63-255,,,249-102-4-255" />
+  </component>
+</application>
+

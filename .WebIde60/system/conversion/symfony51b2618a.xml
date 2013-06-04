@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-libraries-roots" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sergey/web/hautelook/symfony/.idea/dictionaries/sergey.xml" timestamp="1369075042000" />
+    <file path="/home/sergey/web/hautelook/symfony/.idea/encodings.xml" timestamp="1365007765000" />
+    <file path="/home/sergey/web/hautelook/symfony/.idea/frameworkRootSettings.xml" timestamp="1366653127000" />
+    <file path="/home/sergey/web/hautelook/symfony/.idea/haute-symfony.iml" timestamp="1368003471000" />
+    <file path="/home/sergey/web/hautelook/symfony/.idea/misc.xml" timestamp="1365007765000" />
+    <file path="/home/sergey/web/hautelook/symfony/.idea/modules.xml" timestamp="1365007765000" />
+    <file path="/home/sergey/web/hautelook/symfony/.idea/scopes/scope_settings.xml" timestamp="1365007765000" />
+    <file path="/home/sergey/web/hautelook/symfony/.idea/vcs.xml" timestamp="1365007765000" />
+    <file path="/home/sergey/web/hautelook/symfony/.idea/workspace.xml" timestamp="1370021356000" />
+  </project-files>
+</conversion>
+
