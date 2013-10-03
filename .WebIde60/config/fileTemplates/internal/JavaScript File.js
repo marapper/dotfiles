@@ -1,4 +1,0 @@
-/**
- * Author: marapper
- * Date: ${DATE}
- */

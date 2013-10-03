@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="MessDetector">
+    <option name="maxMessagesPerFile" value="100" />
+    <option name="messDetectorPath" value="C:\php\phpmd.bat" />
+    <option name="timeoutMs" value="7000" />
+  </component>
+  <component name="PhpCodeSniffer">
+    <option name="maxMessagesPerFile" value="70" />
+    <option name="phpCodeSnifferPath" value="C:\php\phpcs.bat" />
+    <option name="standards" value="Gtt;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" />
+    <option name="timeoutMs" value="7000" />
+  </component>
+</application>
+
