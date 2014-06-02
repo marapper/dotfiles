@@ -1,0 +1,5 @@
+com.jetbrains.php.gae
+BrowseWordAtCaret
+com.jetbrains.php.drupal
+org.jetbrains.plugins.localization
+org.jetbrains.plugins.rest

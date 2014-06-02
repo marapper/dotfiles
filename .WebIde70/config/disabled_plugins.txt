@@ -1,3 +1,0 @@
-BrowseWordAtCaret
-com.jetbrains.php.gae
-SpellChecker-Dict-Russian

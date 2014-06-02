@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<application>
-  <component name="PomodoroState">
-    <option name="lastState" value="STOP" />
-    <option name="pomodorosAmount" value="14" />
-    <option name="startTime" value="-1" />
-  </component>
-</application>
-

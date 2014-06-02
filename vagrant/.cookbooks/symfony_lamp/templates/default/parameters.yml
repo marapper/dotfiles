@@ -1,0 +1,340 @@
+parameters:
+    application.secret: "Super-puper-value"
+
+    application.assets_version_format: '%%1$s'
+
+    application.db.default.host: sql-web.test1.alpari-ru.dom
+    application.db.default.dbname: site-ru-v4
+    application.db.default.user: site-ru
+    application.db.default.password: HJGdfvbndsM5Rfb
+
+    application.db.default:
+        driver: pdo_mysql
+        host: sql-web.test1.alpari-ru.dom
+        dbname: site-ru-v4
+        user: site-ru
+        password: HJGdfvbndsM5Rfb
+
+    application.db.site_write.host: sql-web.test1.alpari-ru.dom
+    application.db.site_write.dbname: site-ru-v4
+    application.db.site_write.user: site-ru
+    application.db.site_write.password: HJGdfvbndsM5Rfb
+
+    application.db.site_write:
+        driver: pdo_mysql
+        host: sql-web.test1.alpari-ru.dom
+        dbname: site-ru-v4
+        user: site-ru
+        password: HJGdfvbndsM5Rfb
+
+    application.db.my_write.host: sql-web.test1.alpari-ru.dom
+    application.db.my_write.dbname: my_alpari_ru
+    application.db.my_write.user: site_contest_rw
+    application.db.my_write.password: LNHKmmuwCqK22YRP
+
+    application.db.my_write:
+        driver: pdo_mysql
+        host: sql-web.test1.alpari-ru.dom
+        dbname: my_alpari_ru
+        user: site_contest_rw
+        password: LNHKmmuwCqK22YRP
+        charset: utf8
+
+    application.db.sas.host: sql-web.test1.alpari-ru.dom
+    application.db.sas.dbname: sas-ru
+    application.db.sas.user: sas-ru
+    application.db.sas.password: FmYKt6tCh4SzFJUb
+
+    application.db.sas:
+        driver: pdo_mysql
+        host: sql-web.test1.alpari-ru.dom
+        dbname: sas-ru
+        user: sas-ru
+        password: FmYKt6tCh4SzFJUb
+
+    application.db.informer.host: sql-ars1.test1.alpari-ru.dom
+    application.db.informer.dbname: ars_ru_mt4standard1
+    application.db.informer.user: my-ars-data-r
+    application.db.informer.password: YbzjS90mgY6pidIk
+
+    application.db.informer:
+        driver: pdo_mysql
+        host: sql-ars1.test1.alpari-ru.dom
+        dbname: ars_ru_mt4standard1
+        user: my-ars-data-r
+        password: YbzjS90mgY6pidIk
+
+    application.db.informer.standard.host: sql-ars1.test1.alpari-ru.dom
+    application.db.informer.standard.dbname: ars_ru_mt4standard1
+    application.db.informer.standard.user: my-ars-data-r
+    application.db.informer.standard.password: YbzjS90mgY6pidIk
+
+    application.db.informer.standard:
+        driver: pdo_mysql
+        host: sql-ars1.test1.alpari-ru.dom
+        dbname: ars_ru_mt4standard1
+        user: my-ars-data-r
+        password: YbzjS90mgY6pidIk
+
+    application.db.informer.ecn.host: sql-ars1.test1.alpari-ru.dom
+    application.db.informer.ecn.dbname: ars_ru_mt4ecnlive
+    application.db.informer.ecn.user: my-ars-data-r
+    application.db.informer.ecn.password: YbzjS90mgY6pidIk
+
+    application.db.informer.ecn:
+        driver: pdo_mysql
+        host: sql-ars1.test1.alpari-ru.dom
+        dbname: ars_ru_mt4ecnlive
+        user: my-ars-data-r
+        password: YbzjS90mgY6pidIk
+
+    application.db.contest.host: sql-ars1.test1.alpari-ru.dom
+    application.db.contest.dbname: ars_ru_mt4contest
+    application.db.contest.user: my-ars-data-r
+    application.db.contest.password: YbzjS90mgY6pidIk
+
+    application.db.contest:
+        driver: pdo_mysql
+        host: sql-ars1.test1.alpari-ru.dom
+        dbname: data_ru_mt4contest
+        user: my-ars-data-r
+        password: YbzjS90mgY6pidIk
+
+    application.db.my.host: sql-web.test1.alpari-ru.dom
+    application.db.my.dbname: my_front
+    application.db.my.user: site-ru
+    application.db.my.password: HJGdfvbndsM5Rfb
+
+    application.db.my:
+        driver: pdo_mysql
+        host: sql-web.test1.alpari-ru.dom
+        dbname: my_front
+        user: site-ru
+        password: HJGdfvbndsM5Rfb
+
+    application.db.partnership.host: sql-web.test1.alpari-ru.dom
+    application.db.partnership.dbname: my_alpari_ru
+    application.db.partnership.user: my_alpari_ru
+    application.db.partnership.password: AmUfRR5qCQVSJ577
+
+    application.db.sphinx.host: sql-web.test1.alpari-ru.dom
+    application.db.sphinx.dbname: sphinx
+    application.db.sphinx.user: sphinx_indexer
+    application.db.sphinx.password: UyXbpQ4etBDMUDmP
+
+    application.db.sphinx:
+        driver: pdo_mysql
+        host: sql-web.test1.alpari-ru.dom
+        dbname: sphinx
+        user: sphinx_indexer
+        password: UyXbpQ4etBDMUDmP
+
+    application.db.pamm4.host: sql-web.test1.alpari-ru.dom
+    application.db.pamm4.dbname: pamm_front3
+    application.db.pamm4.user: site_invest
+    application.db.pamm4.password: Q8mLsD5baMBsYpaz
+
+    application.db.pamm4:
+        driver: pdo_mysql
+        host: sql-web.test1.alpari-ru.dom
+        dbname: pamm_front3
+        user: site_invest
+        password: Q8mLsD5baMBsYpaz
+
+    application.db.site_shared.host: sql-web.test1.alpari-ru.dom
+    application.db.site_shared.dbname: site_shared
+    application.db.site_shared.user:  site_shared
+    application.db.site_shared.password: wxVmEbVu5RXdT8mX
+
+    application.db.site_shared:
+        driver: pdo_mysql
+        host: sql-web.test1.alpari-ru.dom
+        dbname: site_shared
+        user:  site_shared
+        password: wxVmEbVu5RXdT8mX
+
+    application.db.informer.ndd.host: mysql.test1.alpari.dom
+    application.db.informer.ndd.dbname: ars_ru_mt4nddlive
+    application.db.informer.ndd.user: my-ars-data-r
+    application.db.informer.ndd.password: YbzjS90mgY6pidIk
+
+    application.db.informer.ndd:
+        driver: pdo_mysql
+        host: mysql.test1.alpari.dom
+        dbname: ars_ru_mt4nddlive
+        user: my-ars-data-r
+        password: YbzjS90mgY6pidIk
+
+    application.db.sp_std.host: sql-ars1.test1.alpari-ru.dom
+    application.db.sp_std.dbname: ars_ru_mt4standard1
+    application.db.sp_std.user: siteru_select
+    application.db.sp_std.password: 8FSMmGp8Fmtj3BBj
+
+    application.db.sp_std:
+        driver: pdo_mysql
+        host: sql-ars1.test1.alpari-ru.dom
+        dbname: ars_ru_mt4standard1
+        user: siteru_select
+        password: 8FSMmGp8Fmtj3BBj
+
+    application.db.sp_bloomberg.host: sql-ars1.test1.alpari-ru.dom
+    application.db.sp_bloomberg.dbname: ars_ru_mt4bloomberg
+    application.db.sp_bloomberg.user: siteru_select
+    application.db.sp_bloomberg.password: 8FSMmGp8Fmtj3BBj
+
+    application.db.site_statistic.host: sql-web.test1.alpari-ru.dom
+    application.db.site_statistic.dbname: site_stat
+    application.db.site_statistic.user: site_stat_rw
+    application.db.site_statistic.password: Y58qnAv7sdV53p52
+
+    application.db.sp_bloomberg:
+        driver: pdo_mysql
+        host: sql-ars1.test1.alpari-ru.dom
+        dbname: ars_ru_mt4bloomberg
+        user: siteru_select
+        password: 8FSMmGp8Fmtj3BBj
+
+    application.site_search.service.sphinx.host: localhost
+    application.site_search.service.sphinx.port: 9312
+
+    application.utils.service.webdav.baseurl: 'http://web.trunk.alpari-ru.dom:91/,http://web.trunk.alpari-ru.dom:92/'
+    application.utils.service.webgate.baseurl: 'http://wg1.test1.alpari-ru.dom/webgate.asmx?WSDL'
+    application.utils.service.webgate.baselogin: informer
+    application.utils.service.webgate.basepassword: Kfh38fhsdj3hf
+
+    application.informer.service.chart.mt_server_alias: ru-mt4classic
+
+    application.utils.service.myproxy.www_domain: www2.trunk.alpari-ru.dom
+    application.utils.service.myproxy.my_domain: my.trunk.alpari-ru.dom
+    application.utils.service.myproxy.passport_domain: passport2.trunk.alpari-ru.dom
+    application.utils.service.myproxy.self_domain: www2.trunk.alpari-ru.dom
+    application.utils.service.myproxy.login: Alpari-NZ
+    application.utils.service.myproxy.password: Yte40fFk45
+    application.utils.service.myproxy.useragent: MyProxy
+
+    application.sso.client.url: 'http://passport2.trunk.alpari-ru.dom/sso'
+    application.sso.client.broker: client
+    application.sso.client.secret: pass
+    application.sso.client.autoAttach: false
+
+    application.pamm5.soap.wsdl: 'https://pamm5.alpari.org/?wsdl'
+
+    application.autochartist.partner_entry_url: 'http://alparifs.autochartist.com/aclite/AlpariCyprusMain'
+    application.autochartist.indicator_download_url: 'http://alpari.autochartist.com/AutochartistALPARIMT4Setup.exe'
+    application.autochartist.research_urls:
+        en:
+            d: 'http://www.autochartist.com/trader-community-home/research/daily-forex-articles/feed/'
+            w: 'http://www.autochartist.com/trader-community-home/research/weekly-commodities-articles/feed/'
+        ru:
+            d: 'http://www.autochartist.com/trader-community-home/research/russian-articles/daily-forex-russian/feed/'
+            w: 'http://www.autochartist.com/trader-community-home/research/russian-articles/weekly-forex-russian/feed/'
+
+    application.trading_central.token_key: QUxwQXJpQ1lfcHJVUyEwMQ==
+    application.trading_central.partner_id: alpari-cy
+    application.trading_central.partner_url: 'http://alparifs.tradingcentral.com/login.asp'
+
+    application.contract_specifications.service.instruments.company_id: 1
+
+    application.analytics.webdav_uri: /analytics/downloads
+    application.analytics.download_uri: /analytics/downloads
+
+    application.webdav.service.webdav.baseurl:
+        - 'http://web.trunk.alpari-ru.dom:91/'
+        - 'http://web.trunk.alpari-ru.dom:92/'
+
+    application.static.domains:
+
+    application.redirect.whitelist:
+        - '*.trunk.alpari-ru.dom'
+        - '*.tradingcentral.com'
+        - '*.autochartist.com'
+        - '*.zulutrade.com'
+        - '*.trunk.alpari-ru.dom'
+        - '*.trunk.alpari-cy.dom'
+
+    application.mailer.smtp.host: localhost
+
+    application.cats_client.service_url: 'https://cats.trunk.alpari-ru.dom/'
+    application.cats_client.ssl:
+        cert: '/home/site/keys/dev2.alpari-ru.pem'
+        password: 123
+
+    application.informer.push_uri:
+        #- 'http://comet.dev2.alpari-ru.dom:90/publish'
+        - 'http://www.trunk.alpari-ru.dom:94/publish'
+    application.informer.pull_uri: 'http://www.trunk.alpari-ru.dom/activity'
+    #application.informer.pull_uri: 'http://comet.dev2.alpari-ru.dom:90/activity'
+
+    application.globals.domains:
+        ru:
+            my: https://my.trunk.alpari-ru.dom
+            my_new: https://my2.trunk.alpari-ru.dom
+            www: http://www.trunk.alpari-ru.dom
+        en:
+            my:  https://my.trunk.alpari-ru.dom
+            my_new: https://my2.trunk.alpari-ru.dom
+            www: http://www.trunk.alpari-ru.dom
+
+    application.globals.urls_shortener: 'http://www.trunk.alpari-ru.dom/s/'
+
+    application.funds.soap.wsdl: 'http://funds.trunk.alpari-ru.dom/compiled/api/def/soap/service.xml'
+    application.funds.soap.uri: 'http://funds.trunk.alpari-ru.dom/api/soap/service'
+
+    application.structured_products.soap.wsdl: 'http://sp.trunk.alpari-ru.dom/compiled/api/def/soap/service.xml'
+    application.structured_products.soap.uri: 'http://sp.trunk.alpari-ru.dom/api/soap/service'
+
+    application.dictionary.host: 'http://dictionary.trunk.alpari-ru.dom/'
+
+    application.global.backends:
+        - www2.trunk.alpari-ru.dom
+        - dev2.alpari-ru.dom
+
+    application.funds.soap.wsdl: 'http://funds.trunk.alpari-ru.dom/compiled/api/def/soap/service.xml'
+    application.funds.soap.uri: 'http://funds.trunk.alpari-ru.dom/api/soap/service'
+    application.dictionary.host: 'http://dictionary.trunk.alpari-ru.dom'
+    application.structured_products.soap.wsdl: 'http://sp.trunk.alpari-ru.dom/compiled/api/def/soap/service.xml'
+    application.structured_products.soap.uri: 'http://sp.trunk.alpari-ru.dom/api/soap/service'
+
+    application.cookie.domain:
+        ru: '.alpari-ru.dom'
+        en: '.alpari-ru.dom'
+
+    application.autochartist.secret: GGFqbsejNzJLXNnm2sIdcx1entIRm9LpiVrS6POPGKGxldyO6s
+
+    application.webgate.url: http://wg1.test1.alpari-ru.dom/webgate.asmx?WSDL
+    application.webgate.login: my-www
+    application.webgate.password: C4963JeA7RqBAsGZ
+    application.webgate.ru_mt4standard1: ru-mt4standard1
+    application.webgate.ru_mt4standard2: ru-mt4standard2
+    application.webgate.ru_mt4standard3: ru-mt4standard3
+    application.webgate.ru_mt4standard4: ru-mt4standard4
+    application.webgate.ru_mt4standard5: ru-mt4standard5
+    application.webgate.ru_mt4classic:   ru-mt4classic
+    application.webgate.ru_mt4ecn:       ru-mt4ecn
+    application.webgate.ru_mt4ndd:       ru-mt4ndd
+
+    application.msg-relay-client.wsdl_url: 'https://msg-relay.trunk.alpari-ru.dom/compiled/api/def/soap/relay.xml'
+    application.msg-relay-client.options:
+        local_cert: /home/site/keys/dev2.alpari-ru.pem
+        passphrase: 123
+
+    application.webstat.piwik_script_url: //webstat.trunk.alpari-ru.dom/piwik.js
+    application.webstat.gtt_script_url: //webstat.trunk.alpari-ru.dom/js/gtt/ws-trunk.js
+    application.webstat.piwik_image_noscript_url: //webstat.trunk.alpari-ru.dom/piwik.php?idsite=
+    application.webstat.domain: webstat.trunk.alpari-ru.dom
+
+    application.db.partnership.host: sql-web.test1.alpari-ru.dom
+    application.db.partnership.dbname: my_alpari_ru
+    application.db.partnership.user: my_alpari_ru
+    application.db.partnership.password: AmUfRR5qCQVSJ577
+
+    application.partnership_service.ssl.cert: '/home/site/keys/dev2.alpari-ru.pem'
+    application.partnership_service.ssl.password: 123
+    gtt.partnership_client.branch_selector.wsdl: 'https://partnership.trunk.alpari-ru.dom/compiled/api/def/soap/partnership/branch.xml'
+    gtt.partnership_client.client_manager.wsdl: 'https://partnership.trunk.alpari-ru.dom/compiled/api/def/soap/partnership/client.xml'
+    gtt.partnership_client.business_logic_handler.wsdl: 'https://partnership.trunk.alpari-ru.dom/compiled/api/def/soap/partnership/business_logic_handler.xml'
+
+    application.ewa.host: 'https://ewa.trunk.alpari-ru.dom'
+    application.ewa.key: '/home/site/keys/dev2.alpari-ru.pem'
+
+    application.webstat.piwik_ws_script_url: '//webstat.trunk.alpari-ru.dom/piwik_ws_trunk.js'
