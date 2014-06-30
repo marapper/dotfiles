@@ -1,0 +1,5 @@
+-javaagent:/home/sbondar/Soft/LinuxJavaFixes-1.0.0-SNAPSHOT.jar
+
+-Dawt.useSystemAAFontSettings=on
+-Dswing.aatext=true
+-Dswing.defaultlaf=com.sun.java.swing.plaf.gtk.GTKLookAndFeel
