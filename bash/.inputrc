@@ -40,5 +40,6 @@ set completion-query-items 40
 #The first uncommented line means "Don't ring a bell. Show multiple options$
 # go right to showing multiple options
 set show-all-if-ambiguous on
+set show-all-if-unmodified on
 # TAB by itself cycles through options
-"\t": menu-complete
+#"\t": menu-complete
