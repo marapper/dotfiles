@@ -1,7 +1,10 @@
-.WebIde60/system/caches
-.WebIde60/system/LocalHistory
-.WebIde60/system/tmp
-.WebIde60/system/index
-.WebIde60/system/log
-.WebIde60/system/stat
-.WebIde60/system/deployment
+.WebIde90/system/caches
+.WebIde90/system/LocalHistory
+.WebIde90/system/tmp
+.WebIde90/system/index
+.WebIde90/system/log
+.WebIde90/system/stat
+.WebIde90/system/deployment
+
+*!
+*.kate-swp

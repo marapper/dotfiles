@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PhpStorm
+Icon=/home/sbondar/Soft/PhpStorm-141.792/bin/webide.png
+Exec=env IBUS_ENABLE_SYNC_MODE=1 "/home/sbondar/Soft/PhpStorm-141.792/bin/phpstorm.sh" %f
+Comment=Develop with pleasure!
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=jetbrains-phpstorm

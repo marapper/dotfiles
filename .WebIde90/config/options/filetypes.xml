@@ -1,0 +1,30 @@
+<application>
+  <component name="FileTypeManager" version="13">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="cjsx" type="CoffeeScript" />
+      <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="_blank" type="PLAIN_TEXT" />
+      <mapping pattern=".htmlhintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="GTTP-CHANGELOG" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern=".csslintrc" type="PLAIN_TEXT" />
+      <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping pattern="dummy" type="PLAIN_TEXT" />
+      <mapping pattern=".gjslintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gitempty" type="PLAIN_TEXT" />
+      <mapping pattern="blank" type="PLAIN_TEXT" />
+      <mapping pattern=".csslint" type="PLAIN_TEXT" />
+      <mapping ext="svg" type="PLAIN_TEXT" />
+      <mapping ext="manifest" type="PLAIN_TEXT" />
+      <mapping ext="tex" type="PLAIN_TEXT" />
+      <mapping ext="tex_" type="PLAIN_TEXT" />
+      <mapping ext="xliff" type="XML" />
+    </extensionMap>
+  </component>
+</application>

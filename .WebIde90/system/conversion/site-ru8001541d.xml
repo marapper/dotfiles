@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sbondar/Projects/site-ru/.idea/codeStyleSettings.xml" timestamp="1405594500000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/commandlinetools/Symfony_4_28_15_11_50_AM_s.xml" timestamp="1430211051000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/dictionaries/Sergey_Bondar.xml" timestamp="1405331988000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/dictionaries/sbondar.xml" timestamp="1430240386000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/encodings.xml" timestamp="1430809180000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/frameworkRootSettings.xml" timestamp="1403694741000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/inspectionProfiles/Project_Default.xml" timestamp="1412767592000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/inspectionProfiles/profiles_settings.xml" timestamp="1403694741000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/jsLibraryMappings.xml" timestamp="1405594500000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/jsLinters/gjslint.xml" timestamp="1405514109000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/jsLinters/jshint.xml" timestamp="1405517305000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/jsLinters/jslint.xml" timestamp="1405517305000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/jscsPlugin.xml" timestamp="1415352378000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/libraries/site_ru_node_modules.xml" timestamp="1405594500000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/misc.xml" timestamp="1420821482000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/modules.xml" timestamp="1403694741000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/php.xml" timestamp="1430816311000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/scopes/scope_settings.xml" timestamp="1403694741000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/site-ru.iml" timestamp="1428584695000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/vcs.xml" timestamp="1403694741000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/watcherTasks.xml" timestamp="1405415440000" />
+    <file path="/home/sbondar/Projects/site-ru/.idea/workspace.xml" timestamp="1430832276000" />
+  </project-files>
+</conversion>
+

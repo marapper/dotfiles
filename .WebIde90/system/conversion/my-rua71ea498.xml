@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sbondar/Projects/my-ru/.idea/dictionaries/Sergey_Bondar.xml" timestamp="1415001226000" />
+    <file path="/home/sbondar/Projects/my-ru/.idea/encodings.xml" timestamp="1429627723000" />
+    <file path="/home/sbondar/Projects/my-ru/.idea/frameworkRootSettings.xml" timestamp="1415000683000" />
+    <file path="/home/sbondar/Projects/my-ru/.idea/inspectionProfiles/Project_Default.xml" timestamp="1415000640000" />
+    <file path="/home/sbondar/Projects/my-ru/.idea/inspectionProfiles/profiles_settings.xml" timestamp="1415000640000" />
+    <file path="/home/sbondar/Projects/my-ru/.idea/misc.xml" timestamp="1415378307000" />
+    <file path="/home/sbondar/Projects/my-ru/.idea/modules.xml" timestamp="1415000640000" />
+    <file path="/home/sbondar/Projects/my-ru/.idea/my-ru.iml" timestamp="1415003639000" />
+    <file path="/home/sbondar/Projects/my-ru/.idea/scopes/scope_settings.xml" timestamp="1415000640000" />
+    <file path="/home/sbondar/Projects/my-ru/.idea/vcs.xml" timestamp="1415000640000" />
+    <file path="/home/sbondar/Projects/my-ru/.idea/workspace.xml" timestamp="1429891572000" />
+  </project-files>
+</conversion>
+

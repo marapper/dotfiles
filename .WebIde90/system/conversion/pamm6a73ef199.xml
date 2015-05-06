@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sbondar/Projects/pamm6/.idea/codeStyleSettings.xml" timestamp="1423140294000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/commandlinetools/Symfony_4_28_15_11_44_AM_s.xml" timestamp="1430210828000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/dictionaries/Sergey_Bondar.xml" timestamp="1403707434000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/dictionaries/sbondar.xml" timestamp="1430905809000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/encodings.xml" timestamp="1430906078000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/frameworkRootSettings.xml" timestamp="1423043715000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/inspectionProfiles/Project_Default.xml" timestamp="1406558443000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/inspectionProfiles/profiles_settings.xml" timestamp="1403694643000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/misc.xml" timestamp="1405342407000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/modules.xml" timestamp="1403694643000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/pamm6.iml" timestamp="1429878556000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/php.xml" timestamp="1429793834000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/scopes/scope_settings.xml" timestamp="1403694643000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/sqldialects.xml" timestamp="1407324189000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/vcs.xml" timestamp="1403694643000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/webResources.xml" timestamp="1418656410000" />
+    <file path="/home/sbondar/Projects/pamm6/.idea/workspace.xml" timestamp="1430918773000" />
+  </project-files>
+</conversion>
+

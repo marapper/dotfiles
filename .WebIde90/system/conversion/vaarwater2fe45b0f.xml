@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sbondar/Projects/vaarwater/.idea/dictionaries/sbondar.xml" timestamp="1430124436000" />
+    <file path="/home/sbondar/Projects/vaarwater/.idea/encodings.xml" timestamp="1430139601000" />
+    <file path="/home/sbondar/Projects/vaarwater/.idea/jsLibraryMappings.xml" timestamp="1427884774000" />
+    <file path="/home/sbondar/Projects/vaarwater/.idea/libraries/vaarwater_node_modules.xml" timestamp="1427884723000" />
+    <file path="/home/sbondar/Projects/vaarwater/.idea/misc.xml" timestamp="1427884774000" />
+    <file path="/home/sbondar/Projects/vaarwater/.idea/modules.xml" timestamp="1427884774000" />
+    <file path="/home/sbondar/Projects/vaarwater/.idea/scopes/scope_settings.xml" timestamp="1427884723000" />
+    <file path="/home/sbondar/Projects/vaarwater/.idea/vaarwater.iml" timestamp="1428075166000" />
+    <file path="/home/sbondar/Projects/vaarwater/.idea/vcs.xml" timestamp="1427884774000" />
+    <file path="/home/sbondar/Projects/vaarwater/.idea/workspace.xml" timestamp="1430405836000" />
+  </project-files>
+</conversion>
+

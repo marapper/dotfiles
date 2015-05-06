@@ -1,0 +1,658 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="javaScript Scope Usages">
+      <project id="haute-symfony" values="Project,Project" collectionTime="0" />
+      <project id="vaarwater" values="Project,Project,Directory" collectionTime="1430919112364" />
+      <project id="dev_my-ru" values="Project,Project" collectionTime="0" />
+      <project id="hautelook" values="Project,Project" collectionTime="0" />
+      <project id="_gosplan" values="Project,Project" collectionTime="0" />
+      <project id="top-books" values="Project,Project" collectionTime="0" />
+      <project id="dev-configs" values="Project,Project" collectionTime="0" />
+      <project id="funds" values="Project,Project" collectionTime="0" />
+      <project id="grunt-watch-jscs-bug" values="Directory,Project,Project" collectionTime="0" />
+      <project id="pamm6" values="Project,Project" collectionTime="1430919112341" />
+      <project id="halo-symfony" values="Project,Project" collectionTime="0" />
+      <project id="dev_pamm6" values="Project,Project" collectionTime="0" />
+      <project id="ci_id_web" values="Project,Project" collectionTime="0" />
+      <project id="analytics" values="Project,Project" collectionTime="0" />
+      <project id="slovoblud" values="Project,Project" collectionTime="0" />
+      <project id="sochi" values="Project,Project" collectionTime="0" />
+      <project id="rollo" values="Project,Project" collectionTime="0" />
+      <project id="pamm6-client" values="Project,Project" collectionTime="0" />
+      <project id="leaflet-bundle" values="Project,Project" collectionTime="0" />
+      <project id="20-life-only-web" values="Project,Directory,Project" collectionTime="0" />
+      <project id="sp" values="Project,Project" collectionTime="0" />
+      <project id="ditf-client" values="Project,Project" collectionTime="0" />
+      <project id="mitsu" values="Project,Project" collectionTime="0" />
+      <project id="jquery-meiomask-bundle" values="Project,Project" collectionTime="0" />
+      <project id="ditf-service" values="Project,Project" collectionTime="0" />
+      <project id="Symfony" values="Project,Project" collectionTime="0" />
+      <project id="eyecon-datepicker-bundle" values="Project,Project" collectionTime="0" />
+      <project id="core-bundle" values="Project,Project" collectionTime="0" />
+      <project id="whoareyoupeople" values="Project,Project" collectionTime="0" />
+      <project id="pamm-old" values="Project,Project" collectionTime="0" />
+      <project id="anal" values="Project,Project" collectionTime="0" />
+      <project id="suxstores" values="Project,Project" collectionTime="0" />
+      <project id="site-ru-virt" values="Project,Project" collectionTime="0" />
+      <project id="gulp-mathmode" values="Project,Directory,Project" collectionTime="0" />
+      <project id="planefight" values="Project,Project" collectionTime="0" />
+      <project id="si-ru" values="Project,Project" collectionTime="0" />
+      <project id="game-programming-patterns" values="Project,Project" collectionTime="0" />
+      <project id="VR-AS" values="Project,Project" collectionTime="0" />
+      <project id="dog" values="Project,Project" collectionTime="0" />
+      <project id="site-ru" values="Directory,Project,Project" collectionTime="1430899519108" />
+      <project id="grunt-mathmode" values="Project,Project,Directory" collectionTime="0" />
+      <project id="pa6" values="Project,Project" collectionTime="0" />
+      <project id="s-ru" values="Project,Project" collectionTime="0" />
+      <project id="mutual-funds" values="Project,Project" collectionTime="0" />
+      <project id="play-catalog-template" values="Project,Project" collectionTime="0" />
+      <project id="retroMortis" values="Project,Project" collectionTime="1429894267795" />
+      <project id="msg-relay" values="Project,Project" collectionTime="0" />
+      <project id="dev_site-ru" values="Project,Project" collectionTime="0" />
+      <project id="my-ru" values="Project,Project" collectionTime="1430905400933" />
+      <project id="pamm4-module" values="Project,Project" collectionTime="0" />
+      <project id="symfony" values="Project,Project" collectionTime="0" />
+      <project id="os" values="Project,Project" collectionTime="0" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="haute-symfony" values="DEFAULT" collectionTime="0" />
+      <project id="vaarwater" values="JSX Harmony" collectionTime="1430919112364" />
+      <project id="dev_my-ru" values="DEFAULT" collectionTime="0" />
+      <project id="hautelook" values="DEFAULT" collectionTime="0" />
+      <project id="_gosplan" values="DEFAULT" collectionTime="0" />
+      <project id="top-books" values="DEFAULT" collectionTime="0" />
+      <project id="dev-configs" values="DEFAULT" collectionTime="0" />
+      <project id="funds" values="DEFAULT" collectionTime="0" />
+      <project id="select2-bundle" values="DEFAULT" collectionTime="0" />
+      <project id="grunt-watch-jscs-bug" values="DEFAULT" collectionTime="0" />
+      <project id="pamm6" values="DEFAULT" collectionTime="1430919112341" />
+      <project id="halo-symfony" values="DEFAULT" collectionTime="0" />
+      <project id="dev_pamm6" values="DEFAULT" collectionTime="0" />
+      <project id="ci_id_web" values="DEFAULT" collectionTime="0" />
+      <project id="analytics" values="DEFAULT" collectionTime="0" />
+      <project id="slovoblud" values="DEFAULT" collectionTime="0" />
+      <project id="sochi" values="DEFAULT" collectionTime="0" />
+      <project id="whoareyoupeople" values="DEFAULT" collectionTime="0" />
+      <project id="pamm6-client" values="DEFAULT" collectionTime="0" />
+      <project id="leaflet-bundle" values="DEFAULT" collectionTime="0" />
+      <project id="20-life-only-web" values="ECMAScript 5.1" collectionTime="0" />
+      <project id="sp" values="DEFAULT" collectionTime="0" />
+      <project id="ditf-client" values="DEFAULT" collectionTime="0" />
+      <project id="mitsu" values="DEFAULT" collectionTime="0" />
+      <project id="jquery-meiomask-bundle" values="DEFAULT" collectionTime="0" />
+      <project id="ditf-service" values="DEFAULT" collectionTime="0" />
+      <project id="Symfony" values="DEFAULT" collectionTime="0" />
+      <project id="eyecon-datepicker-bundle" values="DEFAULT" collectionTime="0" />
+      <project id="core-bundle" values="DEFAULT" collectionTime="0" />
+      <project id="symfony" values="DEFAULT" collectionTime="0" />
+      <project id="pamm-old" values="DEFAULT" collectionTime="0" />
+      <project id="anal" values="DEFAULT" collectionTime="0" />
+      <project id="suxstores" values="DEFAULT" collectionTime="0" />
+      <project id="site-ru-virt" values="DEFAULT" collectionTime="0" />
+      <project id="gulp-mathmode" values="DEFAULT" collectionTime="0" />
+      <project id="planefight" values="DEFAULT" collectionTime="0" />
+      <project id="si-ru" values="DEFAULT" collectionTime="0" />
+      <project id="game-programming-patterns" values="DEFAULT" collectionTime="0" />
+      <project id="VR-AS" values="DEFAULT" collectionTime="0" />
+      <project id="dog" values="DEFAULT" collectionTime="0" />
+      <project id="site-ru" values="ECMAScript 5.1" collectionTime="1430899519108" />
+      <project id="grunt-mathmode" values="DEFAULT" collectionTime="0" />
+      <project id="pa6" values="DEFAULT" collectionTime="0" />
+      <project id="rollo" values="DEFAULT" collectionTime="0" />
+      <project id="mutual-funds" values="DEFAULT" collectionTime="0" />
+      <project id="play-catalog-template" values="DEFAULT" collectionTime="0" />
+      <project id="msg-relay" values="DEFAULT" collectionTime="0" />
+      <project id="dev_site-ru" values="DEFAULT" collectionTime="0" />
+      <project id="s-ru" values="DEFAULT" collectionTime="0" />
+      <project id="my-ru" values="DEFAULT" collectionTime="1430905400933" />
+      <project id="pamm4-module" values="DEFAULT" collectionTime="0" />
+      <project id="retroMortis" values="DEFAULT" collectionTime="1429894267795" />
+      <project id="os" values="DEFAULT" collectionTime="0" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="haute-symfony" values="not installed" collectionTime="0" />
+      <project id="vaarwater" values="not installed" collectionTime="1430919112365" />
+      <project id="dev_my-ru" values="not installed" collectionTime="0" />
+      <project id="hautelook" values="not installed" collectionTime="0" />
+      <project id="_gosplan" values="not installed" collectionTime="0" />
+      <project id="top-books" values="not installed" collectionTime="0" />
+      <project id="dev-configs" values="not installed" collectionTime="0" />
+      <project id="funds" values="not installed" collectionTime="0" />
+      <project id="select2-bundle" values="not installed" collectionTime="0" />
+      <project id="grunt-watch-jscs-bug" values="not installed" collectionTime="0" />
+      <project id="pamm6" values="5.5.21-1+deb.sury.org~trusty+2" collectionTime="1430919112342" />
+      <project id="halo-symfony" values="not installed" collectionTime="0" />
+      <project id="dev_pamm6" values="not installed" collectionTime="0" />
+      <project id="ci_id_web" values="not installed" collectionTime="0" />
+      <project id="analytics" values="not installed" collectionTime="0" />
+      <project id="slovoblud" values="not installed" collectionTime="0" />
+      <project id="sochi" values="not installed" collectionTime="0" />
+      <project id="whoareyoupeople" values="not installed" collectionTime="0" />
+      <project id="pamm6-client" values="not installed" collectionTime="0" />
+      <project id="leaflet-bundle" values="not installed" collectionTime="0" />
+      <project id="20-life-only-web" values="not installed" collectionTime="0" />
+      <project id="sp" values="not installed" collectionTime="0" />
+      <project id="ditf-client" values="not installed" collectionTime="0" />
+      <project id="mitsu" values="not installed" collectionTime="0" />
+      <project id="jquery-meiomask-bundle" values="not installed" collectionTime="0" />
+      <project id="ditf-service" values="not installed" collectionTime="0" />
+      <project id="Symfony" values="not installed" collectionTime="0" />
+      <project id="eyecon-datepicker-bundle" values="not installed" collectionTime="0" />
+      <project id="core-bundle" values="not installed" collectionTime="0" />
+      <project id="symfony" values="not installed" collectionTime="0" />
+      <project id="pamm-old" values="not installed" collectionTime="0" />
+      <project id="anal" values="not installed" collectionTime="0" />
+      <project id="suxstores" values="not installed" collectionTime="0" />
+      <project id="site-ru-virt" values="not installed" collectionTime="0" />
+      <project id="gulp-mathmode" values="not installed" collectionTime="0" />
+      <project id="planefight" values="not installed" collectionTime="0" />
+      <project id="si-ru" values="not installed" collectionTime="0" />
+      <project id="game-programming-patterns" values="not installed" collectionTime="0" />
+      <project id="VR-AS" values="not installed" collectionTime="0" />
+      <project id="dog" values="not installed" collectionTime="0" />
+      <project id="site-ru" values="not installed" collectionTime="1430899519110" />
+      <project id="grunt-mathmode" values="not installed" collectionTime="0" />
+      <project id="pa6" values="not installed" collectionTime="0" />
+      <project id="rollo" values="not installed" collectionTime="0" />
+      <project id="mutual-funds" values="not installed" collectionTime="0" />
+      <project id="play-catalog-template" values="not installed" collectionTime="0" />
+      <project id="msg-relay" values="not installed" collectionTime="0" />
+      <project id="dev_site-ru" values="not installed" collectionTime="0" />
+      <project id="s-ru" values="not installed" collectionTime="0" />
+      <project id="my-ru" values="not installed" collectionTime="1430905400941" />
+      <project id="pamm4-module" values="not installed" collectionTime="0" />
+      <project id="retroMortis" values="not installed" collectionTime="1429894267795" />
+      <project id="os" values="not installed" collectionTime="0" />
+    </group>
+    <group name="vcs">
+      <project id="haute-symfony" values="Git" collectionTime="0" />
+      <project id="vaarwater" values="Git" collectionTime="1430919112357" />
+      <project id="hautelook" values="Git" collectionTime="0" />
+      <project id="_gosplan" values="Git" collectionTime="0" />
+      <project id="top-books" values="Git" collectionTime="0" />
+      <project id="dev-configs" values="Git" collectionTime="0" />
+      <project id="funds" values="Git" collectionTime="0" />
+      <project id="select2-bundle" values="Git" collectionTime="0" />
+      <project id="pamm6" values="Git" collectionTime="1430919112312" />
+      <project id="halo-symfony" values="Git" collectionTime="0" />
+      <project id="dev_pamm6" values="Git" collectionTime="0" />
+      <project id="ci_id_web" values="Git" collectionTime="0" />
+      <project id="analytics" values="Git" collectionTime="0" />
+      <project id="slovoblud" values="Git" collectionTime="0" />
+      <project id="sochi" values="Git" collectionTime="0" />
+      <project id="rollo" values="Git" collectionTime="0" />
+      <project id="pamm6-client" values="Git" collectionTime="0" />
+      <project id="leaflet-bundle" values="Git" collectionTime="0" />
+      <project id="20-life-only-web" values="Git" collectionTime="0" />
+      <project id="sp" values="Git" collectionTime="0" />
+      <project id="ditf-client" values="Git" collectionTime="0" />
+      <project id="mitsu" values="Git" collectionTime="0" />
+      <project id="jquery-meiomask-bundle" values="Git" collectionTime="0" />
+      <project id="ditf-service" values="Git" collectionTime="0" />
+      <project id="eyecon-datepicker-bundle" values="Git" collectionTime="0" />
+      <project id="core-bundle" values="Git" collectionTime="0" />
+      <project id="symfony" values="Git" collectionTime="0" />
+      <project id="pamm-old" values="Git" collectionTime="0" />
+      <project id="anal" values="Git" collectionTime="0" />
+      <project id="planefight" values="Git" collectionTime="0" />
+      <project id="gulp-mathmode" values="Git" collectionTime="0" />
+      <project id="game-programming-patterns" values="Git" collectionTime="0" />
+      <project id="VR-AS" values="Git" collectionTime="0" />
+      <project id="site-ru" values="Git" collectionTime="1430899519073" />
+      <project id="pa6" values="Git" collectionTime="0" />
+      <project id="play-catalog-template" values="Git" collectionTime="0" />
+      <project id="retroMortis" values="Git" collectionTime="1429894267791" />
+      <project id="msg-relay" values="Git" collectionTime="0" />
+      <project id="dev_site-ru" values="Git" collectionTime="0" />
+      <project id="my-ru" values="Git" collectionTime="1430905400564" />
+      <project id="pamm4-module" values="Git" collectionTime="0" />
+      <project id="dev_my-ru" values="Git" collectionTime="0" />
+      <project id="os" values="Git" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="pamm6" values="PHPUnitRunConfigurationType" collectionTime="1430919112313" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="mitsu" values="org.postgresql.Driver" collectionTime="0" />
+      <project id="VR-AS" values="org.postgresql.Driver" collectionTime="0" />
+    </group>
+    <group name="file-type">
+      <project id="haute-symfony" values="Images,CSS,UNKNOWN,PHAR,ARCHIVE,HTML,ReST,LESS,JSON,TypeScript,YAML,C++,SASS,XML,DTD,SCSS,htaccess,Locale,PATCH,PLAIN_TEXT,PHP,Smarty,Twig,SQL,JavaScript,Perl" collectionTime="0" />
+      <project id="vaarwater" values="HTML,JSON,Markdown,XML,UNKNOWN,Less,PLAIN_TEXT,Git file,JavaScript,JSHint" collectionTime="1430919112362" />
+      <project id="dev_my-ru" values="JSHint,CoffeeScript,Smarty,htaccess,SQLite Database,Ini,JavaScript,HTML,LESS,Images,JSON,Twig,YAML,PHP,SCSS,PHAR,Native,PLAIN_TEXT,SQL,XML,ReST,ARCHIVE,C++,CSS,UNKNOWN,SASS" collectionTime="0" />
+      <project id="hautelook" values="JavaScript,SQL,HTML,PLAIN_TEXT,Twig,SmartyConfig,C++,XML,LESS,ARCHIVE,Perl,ReST,Images,SCSS,Native,YAML,TypeScript,UNKNOWN,Locale,htaccess,Smarty,JSON,CSS,PHAR,PHP" collectionTime="0" />
+      <project id="_gosplan" values="PLAIN_TEXT,XML,UNKNOWN,HTML,PHP,JavaScript,htaccess" collectionTime="0" />
+      <project id="top-books" values="JSON,ReST,PHP,XML,PLAIN_TEXT,JavaScript,UNKNOWN,YAML,Markdown,Images,HTML" collectionTime="0" />
+      <project id="dev-configs" values="XML,UNKNOWN,Gitignore file,YAML,PLAIN_TEXT" collectionTime="0" />
+      <project id="funds" values="Smarty,Twig,CSS,htaccess,UNKNOWN,SASS,SQL,C++,XML,LESS,Markdown,PHP,ARCHIVE,Ini,ReST,PHAR,Images,PLAIN_TEXT,Gitignore file,JSON,HTML,SCSS,YAML,SQLite Database,JavaScript" collectionTime="0" />
+      <project id="select2-bundle" values="UNKNOWN,JSON,PLAIN_TEXT,PHP,XML" collectionTime="0" />
+      <project id="grunt-watch-jscs-bug" values="PLAIN_TEXT,JSON,JavaScript,UNKNOWN,XML" collectionTime="0" />
+      <project id="pamm6" values="Ini,Images,Perl,PHP,PLAIN_TEXT,YAML,ReST,PHAR,Twig,C++,UNKNOWN,TypeScript,XML,htaccess,Git file,SQL,JSON,HTML,Locale,JavaScript,Markdown,CSS" collectionTime="1430919112324" />
+      <project id="halo-symfony" values="Images,LESS,Twig,Native,Bash,YAML,CSS,SQL,htaccess,PLAIN_TEXT,JavaScript,PHP,Ini,SmartyConfig,ReST,JSON,ARCHIVE,UNKNOWN,Puppet,XML,SCSS" collectionTime="0" />
+      <project id="dev_pamm6" values="ARCHIVE,Twig,YAML,htaccess,PHAR,HTML,Images,SASS,PHP,LESS,SQL,Smarty,C++,CSS,XML,JavaScript,JSON,UNKNOWN,PLAIN_TEXT,SCSS,SQLite Database,ReST,Ini" collectionTime="0" />
+      <project id="ci_id_web" values="JSON,SQLite Database,JavaScript,htaccess,CSS,ReST,PLAIN_TEXT,SQL,XML,PHAR,Markdown,Gitignore file,PHP,Images,UNKNOWN,HTML,YAML" collectionTime="0" />
+      <project id="analytics" values="C++,XML,HTML,CSS,Cucumber,YAML,SASS,JavaScript,LESS,PHAR,Smarty,SQL,ARCHIVE,PLAIN_TEXT,Native,Images,SCSS,ActionScript,JSON,htaccess,Twig,UNKNOWN,ReST,PHP" collectionTime="0" />
+      <project id="slovoblud" values="PHP,SCSS,Smarty,Twig,CSS,PHAR,ReST,PLAIN_TEXT,HAML,HTML,JavaScript,Locale,JSON,XML,ARCHIVE,TypeScript,Images,SASS,C++,LESS,SQL,htaccess,UNKNOWN,YAML" collectionTime="0" />
+      <project id="sochi" values="SASS,CSS,SQL,Images,YAML,UNKNOWN,XML,PHP,Twig,C#,PLAIN_TEXT,Smarty,Native,Bash,SCSS,htaccess,C++,JavaScript,PHAR,JSON,LESS,ARCHIVE,ReST,HTML" collectionTime="0" />
+      <project id="whoareyoupeople" values="PLAIN_TEXT,LESS,HTML,JSHint,JSON,Npmignore file,SourceMap,JSCS,Images,SmartyConfig,YAML,PHP,CSS,XML,Gitignore file,UNKNOWN,JavaScript,htaccess,Native,CoffeeScript,Markdown" collectionTime="0" />
+      <project id="pamm6-client" values="UNKNOWN,PHP,XML" collectionTime="0" />
+      <project id="leaflet-bundle" values="JavaScript,UNKNOWN,JSON,CSS,XML,PLAIN_TEXT,PHP" collectionTime="0" />
+      <project id="20-life-only-web" values="JSHint,CoffeeScript,YAML,Images,LESS,PLAIN_TEXT,Native,JSON,XML,UNKNOWN,SourceMap,JavaScript,CSS,HTML,SmartyConfig" collectionTime="0" />
+      <project id="sp" values="PHP,ReST,Markdown,SASS,ARCHIVE,Smarty,Twig,UNKNOWN,JSON,CSS,YAML,SCSS,Gitignore file,PHAR,JavaScript,HTML,htaccess,Ini,Images,XML,SQL,PLAIN_TEXT,LESS,C++,SQLite Database" collectionTime="0" />
+      <project id="ditf-client" values="PHP,Gitignore file,PLAIN_TEXT,XML,UNKNOWN" collectionTime="0" />
+      <project id="mitsu" values="CSS,SASS,htaccess,ReST,SmartyConfig,JavaScript,UNKNOWN,XML,HAML,HTML,Images,SCSS,ARCHIVE,PHP,C++,Bash,TypeScript,LESS,SQL,YAML,Twig,Locale,JSON,DATASOURCE_STORAGE,PHAR,Smarty,PLAIN_TEXT" collectionTime="0" />
+      <project id="jquery-meiomask-bundle" values="XML,PLAIN_TEXT,JSON,PHP,UNKNOWN" collectionTime="0" />
+      <project id="ditf-service" values="PHP,Gitignore file,YAML,UNKNOWN,XML,PLAIN_TEXT" collectionTime="0" />
+      <project id="Symfony" values="YAML,SCSS,SASS,Smarty,Markdown,JavaScript,CSS,Images,htaccess,Ini,JSON,XML,SQLite Database,UNKNOWN,LESS,ReST,PLAIN_TEXT,SQL,Twig,PHP,C++" collectionTime="0" />
+      <project id="eyecon-datepicker-bundle" values="UNKNOWN,PLAIN_TEXT,PHP,JSON,XML" collectionTime="0" />
+      <project id="core-bundle" values="XML,Gitignore file,PHP,PLAIN_TEXT,Twig,UNKNOWN,YAML,JSON" collectionTime="0" />
+      <project id="symfony" values="Twig,C++,JSON,SASS,YAML,PHP,htaccess,HTML,LESS,UNKNOWN,Images,CSS,ARCHIVE,SQL,ReST,JavaScript,XML,PLAIN_TEXT,SCSS" collectionTime="0" />
+      <project id="pamm-old" values="XML,CSS,SQLite Database,Twig,htaccess,SASS,SCSS,PHAR,JSON,LESS,SQL,C++,PHP,Ini,Markdown,Smarty,HTML,Images,ReST,UNKNOWN,ARCHIVE,YAML,PLAIN_TEXT,Gitignore file,JavaScript" collectionTime="0" />
+      <project id="anal" values="SCSS,PHAR,YAML,HTML,CSS,ARCHIVE,SASS,SmartyConfig,UNKNOWN,PHP,htaccess,XML,Images,SQL,Bash,Twig,JSON,PLAIN_TEXT,ActionScript,Native,LESS,Cucumber,Smarty,C++,JavaScript,ReST" collectionTime="0" />
+      <project id="suxstores" values="SCSS,YAML,Twig,htaccess,Images,XML,SASS,PHP,ReST,SQL,HTML,JSON,C++,CSS,TypeScript,JavaScript,LESS,Locale,PHAR,ARCHIVE,PLAIN_TEXT,Smarty,HAML,UNKNOWN" collectionTime="0" />
+      <project id="site-ru-virt" values="UNKNOWN,XML" collectionTime="0" />
+      <project id="gulp-mathmode" values="XML,Markdown,Npmignore file,UNKNOWN,Gitignore file,Images,JSHint,PLAIN_TEXT,JSCS,JavaScript,JSON" collectionTime="0" />
+      <project id="planefight" values="UNKNOWN,JavaScript,JSON,HTML,JSHint,PLAIN_TEXT,XML" collectionTime="0" />
+      <project id="si-ru" values="CSS,PLAIN_TEXT,XML,C++,Smarty,PHAR,JSON,Images,Twig,PHP,YAML,ReST,htaccess,JavaScript,SQL,LESS,HTML,SCSS,Bash,Native,ARCHIVE,SASS,Ini,UNKNOWN" collectionTime="0" />
+      <project id="game-programming-patterns" values="CSS,Images,C++,HTML,JavaScript,SCSS,XML,PLAIN_TEXT,UNKNOWN" collectionTime="0" />
+      <project id="VR-AS" values="ARCHIVE,UNKNOWN,Images,PHAR,CSS,Bash,Twig,ReST,JavaScript,Native,DATASOURCE_STORAGE,YAML,C#,SQL,SmartyConfig,JSON,Smarty,SCSS,Locale,PHP,htaccess,SASS,XML,HAML,TypeScript,HTML,C++,PLAIN_TEXT" collectionTime="0" />
+      <project id="dog" values="XML,HTML,ActionScript,CSS,Native,htaccess,JavaScript,UNKNOWN,Images,PHP,ARCHIVE,PLAIN_TEXT" collectionTime="0" />
+      <project id="site-ru" values="Ini,HTML,Markdown,CSS,JavaScript,C++,SQL,ReST,PHP,UNKNOWN,htaccess,JSON,Git file,Twig,YAML,Sass,PHAR,Native,Images,Smarty,ARCHIVE,JSCS,PLAIN_TEXT,SCSS,JSHint file,CoffeeScript,XML,JSHint,Less" collectionTime="1430899519104" />
+      <project id="grunt-mathmode" values="JSCS,Npmignore file,JSHint,Gitignore file,XML,JSON,JavaScript,Markdown,UNKNOWN,PLAIN_TEXT,Images" collectionTime="0" />
+      <project id="pa6" values="Bash,JavaScript,LESS,PHAR,PHP,Ini,SQL,PLAIN_TEXT,Images,Perl,SCSS,HTML,CSS,SASS,C++,YAML,SmartyConfig,ReST,JSON,htaccess,Smarty,Twig,UNKNOWN,XML" collectionTime="0" />
+      <project id="rollo" values="Gitignore file,Images,Twig,Ini,YAML,Smarty,htaccess,JavaScript,JSON,UNKNOWN,C++,XML,SQL,SCSS,CSS,LESS,Markdown,ReST,PLAIN_TEXT,HTML,SASS,PHAR,PHP" collectionTime="0" />
+      <project id="mutual-funds" values="PHP,PLAIN_TEXT,YAML,XML,UNKNOWN" collectionTime="0" />
+      <project id="play-catalog-template" values="Images,CSS,HTML,UNKNOWN,SQL,PHP,JavaScript,PLAIN_TEXT,XML" collectionTime="0" />
+      <project id="msg-relay" values="CSS,PLAIN_TEXT,XML,LESS,YAML,PHP,UNKNOWN,Gitignore file,JSON,JavaScript,Images,ARCHIVE,Twig" collectionTime="0" />
+      <project id="dev_site-ru" values="UNKNOWN" collectionTime="0" />
+      <project id="s-ru" values="SASS,XML,PHAR,JavaScript,SQL,Bash,JSON,htaccess,ARCHIVE,UNKNOWN,LESS,Twig,Native,HTML,ReST,SCSS,C++,Smarty,CSS,Images,PHP,YAML,PLAIN_TEXT,Ini" collectionTime="0" />
+      <project id="my-ru" values="PHAR,JSCS,Native,XML,Less,CoffeeScript,JavaScript,SQL,Markdown,YAML,Smarty,Sass,Ini,Images,PLAIN_TEXT,ARCHIVE,PHP,SCSS,UNKNOWN,JSHint,Twig,HTML,JSON,CSS,Git file,ReST,htaccess,C++" collectionTime="1430905400608" />
+      <project id="pamm4-module" values="Twig,YAML,PHP,XML,UNKNOWN,Native" collectionTime="0" />
+      <project id="retroMortis" values="PLAIN_TEXT,Git file,XML,UNKNOWN,Markdown" collectionTime="1429894267794" />
+      <project id="os" values="PLAIN_TEXT,SmartyConfig,HTML,XML,JSON,UNKNOWN,Perl,YAML" collectionTime="0" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="mitsu" values="PostgreSQL/9.1.8" collectionTime="0" />
+      <project id="VR-AS" values="PostgreSQL/9.1.8" collectionTime="0" />
+    </group>
+    <group name="php-interpreter-debug-ext">
+      <project id="pamm6" values="xdebug" collectionTime="1430919112354" />
+    </group>
+    <group name="module type">
+      <project id="haute-symfony" values="WEB_MODULE" collectionTime="0" />
+      <project id="vaarwater" values="WEB_MODULE" collectionTime="1430919112357" />
+      <project id="dev_my-ru" values="WEB_MODULE" collectionTime="0" />
+      <project id="hautelook" values="WEB_MODULE" collectionTime="0" />
+      <project id="_gosplan" values="WEB_MODULE" collectionTime="0" />
+      <project id="top-books" values="WEB_MODULE" collectionTime="0" />
+      <project id="dev-configs" values="WEB_MODULE" collectionTime="0" />
+      <project id="funds" values="WEB_MODULE" collectionTime="0" />
+      <project id="select2-bundle" values="WEB_MODULE" collectionTime="0" />
+      <project id="grunt-watch-jscs-bug" values="WEB_MODULE" collectionTime="0" />
+      <project id="pamm6" values="WEB_MODULE" collectionTime="1430919112312" />
+      <project id="halo-symfony" values="WEB_MODULE" collectionTime="0" />
+      <project id="dev_pamm6" values="WEB_MODULE" collectionTime="0" />
+      <project id="ci_id_web" values="WEB_MODULE" collectionTime="0" />
+      <project id="analytics" values="WEB_MODULE" collectionTime="0" />
+      <project id="slovoblud" values="WEB_MODULE" collectionTime="0" />
+      <project id="sochi" values="WEB_MODULE" collectionTime="0" />
+      <project id="whoareyoupeople" values="WEB_MODULE" collectionTime="0" />
+      <project id="pamm6-client" values="WEB_MODULE" collectionTime="0" />
+      <project id="leaflet-bundle" values="WEB_MODULE" collectionTime="0" />
+      <project id="20-life-only-web" values="WEB_MODULE" collectionTime="0" />
+      <project id="sp" values="WEB_MODULE" collectionTime="0" />
+      <project id="ditf-client" values="WEB_MODULE" collectionTime="0" />
+      <project id="mitsu" values="WEB_MODULE" collectionTime="0" />
+      <project id="jquery-meiomask-bundle" values="WEB_MODULE" collectionTime="0" />
+      <project id="ditf-service" values="WEB_MODULE" collectionTime="0" />
+      <project id="Symfony" values="WEB_MODULE" collectionTime="0" />
+      <project id="eyecon-datepicker-bundle" values="WEB_MODULE" collectionTime="0" />
+      <project id="core-bundle" values="WEB_MODULE" collectionTime="0" />
+      <project id="symfony" values="WEB_MODULE" collectionTime="0" />
+      <project id="pamm-old" values="WEB_MODULE" collectionTime="0" />
+      <project id="anal" values="WEB_MODULE" collectionTime="0" />
+      <project id="suxstores" values="WEB_MODULE" collectionTime="0" />
+      <project id="site-ru-virt" values="WEB_MODULE" collectionTime="0" />
+      <project id="gulp-mathmode" values="WEB_MODULE" collectionTime="0" />
+      <project id="planefight" values="WEB_MODULE" collectionTime="0" />
+      <project id="si-ru" values="WEB_MODULE" collectionTime="0" />
+      <project id="game-programming-patterns" values="WEB_MODULE" collectionTime="0" />
+      <project id="VR-AS" values="WEB_MODULE" collectionTime="0" />
+      <project id="dog" values="WEB_MODULE" collectionTime="0" />
+      <project id="site-ru" values="WEB_MODULE" collectionTime="1430899519074" />
+      <project id="grunt-mathmode" values="WEB_MODULE" collectionTime="0" />
+      <project id="pa6" values="WEB_MODULE" collectionTime="0" />
+      <project id="rollo" values="WEB_MODULE" collectionTime="0" />
+      <project id="mutual-funds" values="WEB_MODULE" collectionTime="0" />
+      <project id="play-catalog-template" values="WEB_MODULE" collectionTime="0" />
+      <project id="msg-relay" values="WEB_MODULE" collectionTime="0" />
+      <project id="dev_site-ru" values="WEB_MODULE" collectionTime="0" />
+      <project id="s-ru" values="WEB_MODULE" collectionTime="0" />
+      <project id="my-ru" values="WEB_MODULE" collectionTime="1430905400565" />
+      <project id="pamm4-module" values="WEB_MODULE" collectionTime="0" />
+      <project id="retroMortis" values="WEB_MODULE" collectionTime="1429894267791" />
+      <project id="os" values="WEB_MODULE" collectionTime="0" />
+    </group>
+    <group name="Command line tool">
+      <project id="pamm6" values="console in toolwindow" collectionTime="1430919112357" />
+      <project id="site-ru" values="console in toolwindow" collectionTime="1430899519110" />
+    </group>
+    <group name="deployment server">
+      <project id="vaarwater" values="SFTP" collectionTime="1430919112364" />
+      <project id="grunt-watch-jscs-bug" values="SFTP" collectionTime="0" />
+      <project id="Symfony" values="SFTP" collectionTime="0" />
+      <project id="top-books" values="SFTP" collectionTime="0" />
+      <project id="dev-configs" values="SFTP" collectionTime="0" />
+      <project id="funds" values="SFTP" collectionTime="0" />
+      <project id="pamm6" values="SFTP" collectionTime="1430919112341" />
+      <project id="whoareyoupeople" values="SFTP" collectionTime="0" />
+      <project id="dev_pamm6" values="SFTP" collectionTime="0" />
+      <project id="ci_id_web" values="SFTP" collectionTime="0" />
+      <project id="rollo" values="SFTP" collectionTime="0" />
+      <project id="pamm6-client" values="SFTP" collectionTime="0" />
+      <project id="20-life-only-web" values="SFTP" collectionTime="0" />
+      <project id="sp" values="SFTP" collectionTime="0" />
+      <project id="si-ru" values="SFTP" collectionTime="0" />
+      <project id="ditf-client" values="SFTP" collectionTime="0" />
+      <project id="dev_my-ru" values="SFTP" collectionTime="0" />
+      <project id="ditf-service" values="SFTP" collectionTime="0" />
+      <project id="core-bundle" values="SFTP" collectionTime="0" />
+      <project id="pamm-old" values="SFTP" collectionTime="0" />
+      <project id="gulp-mathmode" values="SFTP" collectionTime="0" />
+      <project id="planefight" values="SFTP" collectionTime="0" />
+      <project id="s-ru" values="SFTP" collectionTime="0" />
+      <project id="game-programming-patterns" values="SFTP" collectionTime="0" />
+      <project id="dog" values="SFTP" collectionTime="0" />
+      <project id="site-ru" values="SFTP" collectionTime="1430899519107" />
+      <project id="grunt-mathmode" values="SFTP" collectionTime="0" />
+      <project id="pa6" values="SFTP" collectionTime="0" />
+      <project id="mutual-funds" values="SFTP" collectionTime="0" />
+      <project id="msg-relay" values="SFTP" collectionTime="0" />
+      <project id="dev_site-ru" values="SFTP" collectionTime="0" />
+      <project id="my-ru" values="SFTP" collectionTime="1430905400932" />
+      <project id="retroMortis" values="SFTP" collectionTime="1429894267795" />
+    </group>
+    <group name="php-interpreters">
+      <project id="haute-symfony" values="0" collectionTime="0" />
+      <project id="vaarwater" values="1" collectionTime="1430919112365" />
+      <project id="dev_my-ru" values="1" collectionTime="0" />
+      <project id="hautelook" values="0" collectionTime="0" />
+      <project id="_gosplan" values="0" collectionTime="0" />
+      <project id="top-books" values="1" collectionTime="0" />
+      <project id="dev-configs" values="1" collectionTime="0" />
+      <project id="funds" values="1" collectionTime="0" />
+      <project id="select2-bundle" values="0" collectionTime="0" />
+      <project id="grunt-watch-jscs-bug" values="1" collectionTime="0" />
+      <project id="pamm6" values="1" collectionTime="1430919112342" />
+      <project id="halo-symfony" values="0" collectionTime="0" />
+      <project id="dev_pamm6" values="1" collectionTime="0" />
+      <project id="ci_id_web" values="1" collectionTime="0" />
+      <project id="analytics" values="0" collectionTime="0" />
+      <project id="slovoblud" values="0" collectionTime="0" />
+      <project id="sochi" values="0" collectionTime="0" />
+      <project id="whoareyoupeople" values="1" collectionTime="0" />
+      <project id="pamm6-client" values="1" collectionTime="0" />
+      <project id="leaflet-bundle" values="0" collectionTime="0" />
+      <project id="20-life-only-web" values="1" collectionTime="0" />
+      <project id="sp" values="1" collectionTime="0" />
+      <project id="ditf-client" values="1" collectionTime="0" />
+      <project id="mitsu" values="0" collectionTime="0" />
+      <project id="jquery-meiomask-bundle" values="0" collectionTime="0" />
+      <project id="ditf-service" values="1" collectionTime="0" />
+      <project id="Symfony" values="1" collectionTime="0" />
+      <project id="eyecon-datepicker-bundle" values="0" collectionTime="0" />
+      <project id="core-bundle" values="1" collectionTime="0" />
+      <project id="symfony" values="0" collectionTime="0" />
+      <project id="pamm-old" values="1" collectionTime="0" />
+      <project id="anal" values="0" collectionTime="0" />
+      <project id="suxstores" values="0" collectionTime="0" />
+      <project id="site-ru-virt" values="0" collectionTime="0" />
+      <project id="gulp-mathmode" values="1" collectionTime="0" />
+      <project id="planefight" values="1" collectionTime="0" />
+      <project id="si-ru" values="0" collectionTime="0" />
+      <project id="game-programming-patterns" values="1" collectionTime="0" />
+      <project id="VR-AS" values="0" collectionTime="0" />
+      <project id="dog" values="1" collectionTime="0" />
+      <project id="site-ru" values="1" collectionTime="1430899519110" />
+      <project id="grunt-mathmode" values="1" collectionTime="0" />
+      <project id="pa6" values="0" collectionTime="0" />
+      <project id="rollo" values="1" collectionTime="0" />
+      <project id="mutual-funds" values="0" collectionTime="0" />
+      <project id="play-catalog-template" values="0" collectionTime="0" />
+      <project id="msg-relay" values="1" collectionTime="0" />
+      <project id="dev_site-ru" values="1" collectionTime="0" />
+      <project id="s-ru" values="0" collectionTime="0" />
+      <project id="my-ru" values="1" collectionTime="1430905400941" />
+      <project id="pamm4-module" values="0" collectionTime="0" />
+      <project id="retroMortis" values="1" collectionTime="1429894267795" />
+      <project id="os" values="0" collectionTime="0" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="vaarwater" values="node_modules" collectionTime="1430919112364" />
+      <project id="grunt-mathmode" values="node_modules" collectionTime="0" />
+      <project id="20-life-only-web" values="node_modules" collectionTime="0" />
+      <project id="grunt-watch-jscs-bug" values="node_modules" collectionTime="0" />
+      <project id="gulp-mathmode" values="node_modules" collectionTime="0" />
+      <project id="site-ru" values="node_modules" collectionTime="1430899519107" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="haute-symfony" values="0" collectionTime="0" />
+      <project id="vaarwater" values="0" collectionTime="1430919112365" />
+      <project id="dev_my-ru" values="0" collectionTime="0" />
+      <project id="hautelook" values="0" collectionTime="0" />
+      <project id="_gosplan" values="0" collectionTime="0" />
+      <project id="top-books" values="0" collectionTime="0" />
+      <project id="dev-configs" values="0" collectionTime="0" />
+      <project id="funds" values="0" collectionTime="0" />
+      <project id="select2-bundle" values="0" collectionTime="0" />
+      <project id="grunt-watch-jscs-bug" values="0" collectionTime="0" />
+      <project id="pamm6" values="0" collectionTime="1430919112354" />
+      <project id="halo-symfony" values="0" collectionTime="0" />
+      <project id="dev_pamm6" values="0" collectionTime="0" />
+      <project id="ci_id_web" values="0" collectionTime="0" />
+      <project id="analytics" values="0" collectionTime="0" />
+      <project id="slovoblud" values="0" collectionTime="0" />
+      <project id="sochi" values="0" collectionTime="0" />
+      <project id="whoareyoupeople" values="0" collectionTime="0" />
+      <project id="pamm6-client" values="0" collectionTime="0" />
+      <project id="leaflet-bundle" values="0" collectionTime="0" />
+      <project id="20-life-only-web" values="0" collectionTime="0" />
+      <project id="sp" values="0" collectionTime="0" />
+      <project id="ditf-client" values="0" collectionTime="0" />
+      <project id="mitsu" values="0" collectionTime="0" />
+      <project id="jquery-meiomask-bundle" values="0" collectionTime="0" />
+      <project id="ditf-service" values="0" collectionTime="0" />
+      <project id="Symfony" values="0" collectionTime="0" />
+      <project id="eyecon-datepicker-bundle" values="0" collectionTime="0" />
+      <project id="core-bundle" values="0" collectionTime="0" />
+      <project id="symfony" values="0" collectionTime="0" />
+      <project id="pamm-old" values="0" collectionTime="0" />
+      <project id="anal" values="0" collectionTime="0" />
+      <project id="suxstores" values="0" collectionTime="0" />
+      <project id="site-ru-virt" values="0" collectionTime="0" />
+      <project id="gulp-mathmode" values="0" collectionTime="0" />
+      <project id="planefight" values="0" collectionTime="0" />
+      <project id="si-ru" values="0" collectionTime="0" />
+      <project id="game-programming-patterns" values="0" collectionTime="0" />
+      <project id="VR-AS" values="0" collectionTime="0" />
+      <project id="dog" values="0" collectionTime="0" />
+      <project id="site-ru" values="0" collectionTime="1430899519110" />
+      <project id="grunt-mathmode" values="0" collectionTime="0" />
+      <project id="pa6" values="0" collectionTime="0" />
+      <project id="rollo" values="0" collectionTime="0" />
+      <project id="mutual-funds" values="0" collectionTime="0" />
+      <project id="play-catalog-template" values="0" collectionTime="0" />
+      <project id="msg-relay" values="0" collectionTime="0" />
+      <project id="dev_site-ru" values="0" collectionTime="0" />
+      <project id="s-ru" values="0" collectionTime="0" />
+      <project id="my-ru" values="0" collectionTime="1430905400943" />
+      <project id="pamm4-module" values="0" collectionTime="0" />
+      <project id="retroMortis" values="0" collectionTime="1429894267795" />
+      <project id="os" values="0" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="pamm6" values="PHPUnitRunConfigurationType" collectionTime="1430919112313" />
+      <project id="sp" values="PHPUnitRunConfigurationType" collectionTime="0" />
+      <project id="site-ru" values="PhpUnitRemoteRunConfigurationType,PHPUnitRunConfigurationType" collectionTime="1430899519074" />
+    </group>
+    <group name="php-servers">
+      <project id="haute-symfony" values="0" collectionTime="0" />
+      <project id="vaarwater" values="0" collectionTime="1430919112365" />
+      <project id="dev_my-ru" values="0" collectionTime="0" />
+      <project id="hautelook" values="0" collectionTime="0" />
+      <project id="_gosplan" values="0" collectionTime="0" />
+      <project id="top-books" values="0" collectionTime="0" />
+      <project id="dev-configs" values="0" collectionTime="0" />
+      <project id="funds" values="0" collectionTime="0" />
+      <project id="select2-bundle" values="0" collectionTime="0" />
+      <project id="grunt-watch-jscs-bug" values="0" collectionTime="0" />
+      <project id="pamm6" values="0" collectionTime="1430919112342" />
+      <project id="halo-symfony" values="0" collectionTime="0" />
+      <project id="dev_pamm6" values="0" collectionTime="0" />
+      <project id="ci_id_web" values="0" collectionTime="0" />
+      <project id="analytics" values="0" collectionTime="0" />
+      <project id="slovoblud" values="0" collectionTime="0" />
+      <project id="sochi" values="0" collectionTime="0" />
+      <project id="whoareyoupeople" values="0" collectionTime="0" />
+      <project id="pamm6-client" values="0" collectionTime="0" />
+      <project id="leaflet-bundle" values="0" collectionTime="0" />
+      <project id="20-life-only-web" values="0" collectionTime="0" />
+      <project id="sp" values="0" collectionTime="0" />
+      <project id="ditf-client" values="0" collectionTime="0" />
+      <project id="mitsu" values="0" collectionTime="0" />
+      <project id="jquery-meiomask-bundle" values="0" collectionTime="0" />
+      <project id="ditf-service" values="0" collectionTime="0" />
+      <project id="Symfony" values="0" collectionTime="0" />
+      <project id="eyecon-datepicker-bundle" values="0" collectionTime="0" />
+      <project id="core-bundle" values="0" collectionTime="0" />
+      <project id="symfony" values="0" collectionTime="0" />
+      <project id="pamm-old" values="0" collectionTime="0" />
+      <project id="anal" values="0" collectionTime="0" />
+      <project id="suxstores" values="0" collectionTime="0" />
+      <project id="site-ru-virt" values="0" collectionTime="0" />
+      <project id="gulp-mathmode" values="0" collectionTime="0" />
+      <project id="planefight" values="0" collectionTime="0" />
+      <project id="si-ru" values="0" collectionTime="0" />
+      <project id="game-programming-patterns" values="0" collectionTime="0" />
+      <project id="VR-AS" values="0" collectionTime="0" />
+      <project id="dog" values="0" collectionTime="0" />
+      <project id="site-ru" values="0" collectionTime="1430899519110" />
+      <project id="grunt-mathmode" values="0" collectionTime="0" />
+      <project id="pa6" values="0" collectionTime="0" />
+      <project id="rollo" values="0" collectionTime="0" />
+      <project id="mutual-funds" values="0" collectionTime="0" />
+      <project id="play-catalog-template" values="0" collectionTime="0" />
+      <project id="msg-relay" values="0" collectionTime="0" />
+      <project id="dev_site-ru" values="0" collectionTime="0" />
+      <project id="s-ru" values="0" collectionTime="0" />
+      <project id="my-ru" values="0" collectionTime="1430905400941" />
+      <project id="pamm4-module" values="0" collectionTime="0" />
+      <project id="retroMortis" values="0" collectionTime="1429894267795" />
+      <project id="os" values="0" collectionTime="0" />
+    </group>
+    <group name="php-include-path">
+      <project id="haute-symfony" values="0" collectionTime="0" />
+      <project id="vaarwater" values="0" collectionTime="1430919112364" />
+      <project id="dev_my-ru" values="0" collectionTime="0" />
+      <project id="hautelook" values="0" collectionTime="0" />
+      <project id="_gosplan" values="0" collectionTime="0" />
+      <project id="top-books" values="0" collectionTime="0" />
+      <project id="dev-configs" values="0" collectionTime="0" />
+      <project id="funds" values="0" collectionTime="0" />
+      <project id="select2-bundle" values="0" collectionTime="0" />
+      <project id="grunt-watch-jscs-bug" values="0" collectionTime="0" />
+      <project id="pamm6" values="0" collectionTime="1430919112342" />
+      <project id="halo-symfony" values="0" collectionTime="0" />
+      <project id="dev_pamm6" values="0" collectionTime="0" />
+      <project id="ci_id_web" values="0" collectionTime="0" />
+      <project id="analytics" values="0" collectionTime="0" />
+      <project id="slovoblud" values="0" collectionTime="0" />
+      <project id="sochi" values="0" collectionTime="0" />
+      <project id="whoareyoupeople" values="0" collectionTime="0" />
+      <project id="pamm6-client" values="0" collectionTime="0" />
+      <project id="leaflet-bundle" values="0" collectionTime="0" />
+      <project id="20-life-only-web" values="0" collectionTime="0" />
+      <project id="sp" values="0" collectionTime="0" />
+      <project id="ditf-client" values="0" collectionTime="0" />
+      <project id="mitsu" values="0" collectionTime="0" />
+      <project id="jquery-meiomask-bundle" values="0" collectionTime="0" />
+      <project id="ditf-service" values="0" collectionTime="0" />
+      <project id="Symfony" values="0" collectionTime="0" />
+      <project id="eyecon-datepicker-bundle" values="0" collectionTime="0" />
+      <project id="core-bundle" values="0" collectionTime="0" />
+      <project id="symfony" values="0" collectionTime="0" />
+      <project id="pamm-old" values="0" collectionTime="0" />
+      <project id="anal" values="0" collectionTime="0" />
+      <project id="suxstores" values="0" collectionTime="0" />
+      <project id="site-ru-virt" values="0" collectionTime="0" />
+      <project id="gulp-mathmode" values="0" collectionTime="0" />
+      <project id="planefight" values="0" collectionTime="0" />
+      <project id="si-ru" values="0" collectionTime="0" />
+      <project id="game-programming-patterns" values="0" collectionTime="0" />
+      <project id="VR-AS" values="0" collectionTime="0" />
+      <project id="dog" values="0" collectionTime="0" />
+      <project id="site-ru" values="0" collectionTime="1430899519108" />
+      <project id="grunt-mathmode" values="0" collectionTime="0" />
+      <project id="pa6" values="0" collectionTime="0" />
+      <project id="rollo" values="0" collectionTime="0" />
+      <project id="mutual-funds" values="0" collectionTime="0" />
+      <project id="play-catalog-template" values="0" collectionTime="0" />
+      <project id="msg-relay" values="0" collectionTime="0" />
+      <project id="dev_site-ru" values="0" collectionTime="0" />
+      <project id="s-ru" values="0" collectionTime="0" />
+      <project id="my-ru" values="0" collectionTime="1430905400934" />
+      <project id="pamm4-module" values="0" collectionTime="0" />
+      <project id="retroMortis" values="0" collectionTime="1429894267795" />
+      <project id="os" values="0" collectionTime="0" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="242" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredEngine-null.no_mappings" count="4" />
+      <entry feature="NewDirectoryProjectAction.empty" count="5" />
+      <entry feature="execute.JavascriptDebugType.Run" count="5" />
+      <entry feature="execute.PHPUnitRunConfigurationType.Coverage" count="11" />
+      <entry feature="execute.PHPUnitRunConfigurationType.Debug" count="1" />
+      <entry feature="execute.PHPUnitRunConfigurationType.Run" count="1513" />
+      <entry feature="execute.PhpLocalRunConfigurationType.Run" count="4" />
+      <entry feature="execute.PhpUnitRemoteRunConfigurationType.Run" count="46" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="3" />
+      <entry feature="ide.settings.Appearance" count="6" />
+      <entry feature="ide.settings.Bower" count="1" />
+      <entry feature="ide.settings.Closure_Linter" count="2" />
+      <entry feature="ide.settings.Code_Sniffer" count="2" />
+      <entry feature="ide.settings.Command_Line_Tool_Support" count="4" />
+      <entry feature="ide.settings.Composer" count="2" />
+      <entry feature="ide.settings.Console_Colors" count="1" />
+      <entry feature="ide.settings.Diff" count="1" />
+      <entry feature="ide.settings.Directories" count="21" />
+      <entry feature="ide.settings.Editor" count="3" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.File_Types" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="4" />
+      <entry feature="ide.settings.Font" count="13" />
+      <entry feature="ide.settings.Framework_Integration" count="1" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.Inspections" count="27" />
+      <entry feature="ide.settings.JSCS_Plugin" count="1" />
+      <entry feature="ide.settings.JSHint" count="3" />
+      <entry feature="ide.settings.JSLint" count="4" />
+      <entry feature="ide.settings.JavaScript" count="11" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Live_Templates" count="14" />
+      <entry feature="ide.settings.PHP" count="3" />
+      <entry feature="ide.settings.PHPUnit" count="3" />
+      <entry feature="ide.settings.Plugins" count="4" />
+      <entry feature="ide.settings.SQL" count="1" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="ide.settings.XML" count="1" />
+      <entry feature="idea.caches.invalidated" count="7" />
+      <entry feature="ideaapp.started" count="236" />
+      <entry feature="uml.ShowDiagram.DATABASE" count="2" />
+      <entry feature="uml.ShowDiagram.DATABASE.popup" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateDirectoryProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+</application>

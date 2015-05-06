@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/sbondar/Projects/retroMortis/.idea/dictionaries/Sergey_Bondar.xml" timestamp="1418288965000" />
+    <file path="/home/sbondar/Projects/retroMortis/.idea/encodings.xml" timestamp="1429627723000" />
+    <file path="/home/sbondar/Projects/retroMortis/.idea/inspectionProfiles/Project_Default.xml" timestamp="1418288935000" />
+    <file path="/home/sbondar/Projects/retroMortis/.idea/inspectionProfiles/profiles_settings.xml" timestamp="1418288935000" />
+    <file path="/home/sbondar/Projects/retroMortis/.idea/misc.xml" timestamp="1418294454000" />
+    <file path="/home/sbondar/Projects/retroMortis/.idea/modules.xml" timestamp="1418288935000" />
+    <file path="/home/sbondar/Projects/retroMortis/.idea/retroMortis.iml" timestamp="1418288935000" />
+    <file path="/home/sbondar/Projects/retroMortis/.idea/scopes/scope_settings.xml" timestamp="1418288935000" />
+    <file path="/home/sbondar/Projects/retroMortis/.idea/vcs.xml" timestamp="1418295029000" />
+    <file path="/home/sbondar/Projects/retroMortis/.idea/workspace.xml" timestamp="1429688677000" />
+  </project-files>
+</conversion>
+

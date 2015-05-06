@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory '/home/sbondar/Projects/pamm6/src'" />
+    <option name="defaultScopeName" value="Directory '/home/sbondar/Projects/pamm6/src'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '/home/sbondar/Projects/pamm6/src'" />
+    <option name="FILE_MASK" value="composer.json" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.css</mask>
+      <mask>*.(less|css)</mask>
+      <mask>*.json</mask>
+      <mask>*.*ss</mask>
+      <mask>*.js</mask>
+      <mask>*.html.twig</mask>
+      <mask>*.php</mask>
+      <mask>*.xml</mask>
+      <mask>*.yml</mask>
+      <mask>composer.json</mask>
+    </recentFileMasks>
+  </component>
+</application>

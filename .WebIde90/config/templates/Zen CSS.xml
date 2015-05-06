@@ -1,0 +1,6 @@
+<templateSet group="Zen CSS">
+  <template name="d" value="display:$VAR0$;" description="display:...;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;block&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
