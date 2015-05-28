@@ -1,3 +1,9 @@
+alias vvcd="cd vendor_composer/"
+alias pamm_install="sudo rm -rf app/var/cache/* && sudo setfacl -dR -m u:www-data:rwx -m u:sbondar:rwx app/var && sudo setfacl -R -m u:"$HTTPDUSER":rwX -m u:`whoami`:rwX app/var && composer install"
+
+alias assetsWatch="sudo rm -rf app/var/cache/* web/compiled/* && symfony assets:install --symlink web && sudo chmod -R 777 app/var && symfony assetic:dump --force -v --watch"
+alias assets="sudo rm -rf app/var/cache/* web/compiled/* && symfony assets:install --symlink web && sudo chmod -R 777 app/var && symfony assetic:dump --force -v"
+
 alias reload='source ~/.bashrc'
 
 #Personal Help
@@ -7,10 +13,10 @@ alias f?='cat /home/will/.function.help'
 #show most popular commands
 alias top-commands='history | awk "{print $2}" | awk "BEGIN {FS="|"} {print $1}" |sort|uniq -c | sort -rn | head -10'
 
-alias gitbran = 'echo -e "\e[91mContains current branch\e[0m" && git br -v --contains && echo -e "\e[91mNo merged\e[0m" && git br -v --no-merged && echo -e "\e[91mMerged\e[0m" && git br --merged| tail -n +2 | sort -V | tr -d "\n"  && echo ""'
+alias gitbran='echo -e "\e[91mContains current branch\e[0m" && git br -v --contains && echo -e "\e[91mNo merged\e[0m" && git br -v --no-merged && echo -e "\e[91mMerged\e[0m" && git br --merged| tail -n +2 | sort -V | tr -d "\n"  && echo ""'
 
 #remove all merged branches
-alias gitclean = 'git branch -r --merged | grep PAMM- | sed 's/origin\///' | xargs -I# git push origin :#'
+alias gitclean='git branch -r --merged | grep PAMM- | sed 's/origin\///' | xargs -I# git push origin :#'
 
 #what most people want from od (hexdump)
 alias hd='od -Ax -tx1z -v'
@@ -89,13 +95,13 @@ alias mdump='alias|grep -e "alias g[0-9]"|grep -v "alias m" > ~/.bookmarks'
 alias ah='(echo;alias | grep  "g[0-9]" | grep -v "m[0-9]" | cut -d" " -f "2,3"| sed "s/=/   /" | sed "s/cd //";echo)'
 
 alias a='fasd -a'        # any
-alias s='fasd -si'       # show / search / select
-alias d='fasd -d'        # directory
-alias f='fasd -f'        # file
-alias sd='fasd -sid'     # interactive directory selection
-alias sf='fasd -sif'     # interactive file selection
-alias j='fasd_cd -d'     # cd, same functionality as j in autojump
-alias jj='fasd_cd -d -i'
+#alias s='fasd -si'       # show / search / select
+#alias d='fasd -d'        # directory
+#alias f='fasd -f'        # file
+#alias sd='fasd -sid'     # interactive directory selection
+#alias sf='fasd -sif'     # interactive file selection
+#alias j='fasd_cd -d'     # cd, same functionality as j in autojump
+#alias jj='fasd_cd -d -i'
 
 alias edit='nano'
 alias nano='nano -W -m'

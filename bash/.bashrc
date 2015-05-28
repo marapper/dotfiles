@@ -1,5 +1,18 @@
+# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+# for examples
+
+# If not running interactively, don't do anything
+case $- in
+    *i*) ;;
+      *) return;;
+esac
+
+export AUTOJUMP_IGNORE_CASE=1
+. /usr/share/autojump/autojump.sh
 [[ -s /etc/profile.d/autojump.bash ]] && source /etc/profile.d/autojump.bash
 
+JAVA_OPTS="$JAVA_OPTS java -javaagent:/home/sbondar/Soft/LinuxJavaFixes-1.0.0-SNAPSHOT.jar"
 export IDEA_JDK="/usr/java/latest"
 
 USER=`whoami`
@@ -11,6 +24,10 @@ fi
 
 if [ $USER = 'root' ] ; then
   COLOUR=41
+fi
+
+if [ -f ~/.git-completion.bash ]; then
+  . ~/.git-completion.bash
 fi
 
 # задать действительный escape символ вместо ^[. Чтобы сделать это:
@@ -199,28 +216,6 @@ export PGHOST=/tmp
 # grep colorize
 export GREP_OPTIONS="--color=auto"
 
-eval "$(fasd --init auto)"
-
-
-# function to execute built-in cd
-fasd_cd() {
-  if [ $# -le 1 ]; then
-    fasd "$@"
-  else
-    local _fasd_ret="$(fasd -e echo "$@")"
-    [ -z "$_fasd_ret" ] && return
-    [ -d "$_fasd_ret" ] && cd "$_fasd_ret" || echo "$_fasd_ret"
-  fi
-}
-alias c='fasd_cd -d' # `-d' option present for bash completion
-
-fasd_cache="$HOME/.fasd-init-bash"
-if [ "$(command -v fasd)" -nt "$fasd_cache" -o ! -s "$fasd_cache" ]; then
-  fasd --init posix-alias bash-hook bash-ccomp bash-ccomp-install >| "$fasd_cache"
-fi
-source "$fasd_cache"
-unset fasd_cache
-
 # Find a file with a pattern in name:
 function ff() { find . -type f -iname '*'"$*"'*' -ls ; }
 
@@ -383,9 +378,10 @@ fi
 # this will display the username, date, time, a calendar, the amount of users, and the up time.
 clear
 # Gotta love ASCII art with figlet
-figlet "Welcome, " $USER;
+#figlet "Welcome, " $USER;
 echo -e ""
 echo -ne "Today is "; date
 echo -e ""; cal ;
 echo -ne "Up time:";uptime | awk /'up/'
 echo "";
+
