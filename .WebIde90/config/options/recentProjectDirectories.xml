@@ -2,10 +2,12 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/Projects/pamm6" />
         <option value="$USER_HOME$/Projects/vaarwater" />
-        <option value="$USER_HOME$/Projects/my-ru" />
         <option value="$USER_HOME$/Projects/site-ru" />
+        <option value="$USER_HOME$/Projects/pamm6" />
+        <option value="$USER_HOME$/Projects/my-ru" />
+        <option value="$USER_HOME$/Projects/ipb-forum-client-bundle" />
+        <option value="$USER_HOME$/Downloads" />
         <option value="$USER_HOME$/Projects/retroMortis" />
         <option value="$USER_HOME$/Projects/dev-configs" />
         <option value="$USER_HOME$/Projects/msg-relay" />
@@ -25,16 +27,8 @@
         <option value="$USER_HOME$/Projects/grunt-mathmode" />
         <option value="$USER_HOME$/Projects/Symfony" />
         <option value="$USER_HOME$/Projects/top-books" />
-        <option value="$USER_HOME$/Projects/dev_my-ru" />
-        <option value="$USER_HOME$/Documents/game-programming-patterns" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/Projects/pamm6" />
-        <option value="$USER_HOME$/Projects/vaarwater" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/Projects/pamm6" />
+    <option name="lastPath" value="$USER_HOME$/Projects/vaarwater" />
   </component>
 </application>

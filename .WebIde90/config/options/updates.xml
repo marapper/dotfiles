@@ -14,11 +14,8 @@
     <ignoredBuildNumbers>
       <item value="129.487" />
     </ignoredBuildNumbers>
-    <outdatedPlugins>
-      <item value="org.editorconfig.editorconfigjetbrains" />
-    </outdatedPlugins>
-    <option name="LAST_TIME_CHECKED" value="1429881588352" />
-    <option name="LAST_BUILD_CHECKED" value="PS-139.1348" />
+    <option name="LAST_TIME_CHECKED" value="1432634310306" />
+    <option name="LAST_BUILD_CHECKED" value="PS-141.1224" />
     <option name="UPDATE_CHANNEL_TYPE" value="eap" />
   </component>
 </application>

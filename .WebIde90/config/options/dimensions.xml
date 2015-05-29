@@ -39,7 +39,7 @@
     <location key="ProcessPopupWindow.0.0.1367.770" x="951" y="518" />
     <location key="webDeployment.PermissionsDialog.0.0.1600.900" x="683" y="298" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1367.770" x="545" y="9" />
-    <location key="WELCOME_SCREEN.0.0.1600.900" x="819" y="302" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="824" y="230" />
     <location key="replaceTextDialog.1600.-180.1920.1080" x="2346" y="88" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" x="545" y="9" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1366.768" x="158" y="100" />
@@ -65,7 +65,7 @@
     <location key="com.intellij.persistence.run.ColumnFilterDialog.0.0.1600.900" x="562" y="301" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.900" x="347" y="359" />
     <location key="#Atlassian_Connector.0.0.1367.770" x="295" y="0" />
-    <location key="WELCOME_SCREEN.0.0.1920.1080" x="2868" y="230" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="2720" y="230" />
     <location key="#Framework_Integration.0.0.1366.768" x="524" y="328" />
     <location key="OptionsEditor.1600.-180.1920.1080" x="269" y="96" />
     <location key="FileDocumentManager.FileCacheConflict.0.0.1600.900" x="479" y="208" />
@@ -212,27 +212,40 @@
     <location key="ProcessPopupWindow.0.114.1600.900" x="1208" y="815" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.1600.0.1920.1080" x="1920" y="152" />
     <location key="WELCOME_SCREEN.1920.128.1600.900" x="2720" y="230" />
-    <location key="findTextDialog.1920.128.1600.900" x="2590" y="536" />
-    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1920.128.1600.900" x="2553" y="233" />
-    <location key="VCS.ChangeListViewerDialog.1920.128.1600.900" x="2721" y="344" />
+    <location key="findTextDialog.1920.128.1600.900" x="2560" y="536" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1920.128.1600.900" x="2553" y="261" />
+    <location key="VCS.ChangeListViewerDialog.1920.128.1600.900" x="2718" y="454" />
     <location key="DiffWindow.1920.128.1600.900" x="2169" y="380" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.128.1600.900" x="2253" y="336" />
     <location key="OptionsEditor.1920.128.1600.900" x="2221" y="430" />
-    <location key="FileChooserDialogImpl.1920.128.1600.900" x="2920" y="447" />
-    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.128.1600.900" x="1920" y="180" />
+    <location key="FileChooserDialogImpl.1920.128.1600.900" x="2920" y="566" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.128.1600.900" x="1969" y="152" />
     <location key="replaceTextDialog.1920.128.1600.900" x="2576" y="374" />
     <location key="#PammExtensionTest.dateOneStrangeDayDiff.1920.128.1600.900" x="2425" y="286" />
-    <location key="DiffContextDialog.1920.128.1600.900" x="1978" y="252" />
+    <location key="DiffContextDialog.1920.128.1600.900" x="349" y="211" />
     <location key="ComposerCompositePathDialog.1920.128.1600.900" x="2422" y="457" />
     <location key="SymfonyPathDialog.1920.128.1600.900" x="2543" y="529" />
     <location key="com.jetbrains.php.framework.generators.custom.CustomFrameworkDialog.1920.128.1600.900" x="2576" y="510" />
-    <location key="SettingsEditor.1920.128.1600.900" x="2234" y="259" />
+    <location key="SettingsEditor.1920.128.1600.900" x="2243" y="340" />
     <location key="FrameworkEditDialogDimensionKey.1920.128.1600.900" x="2534" y="547" />
     <location key="#Checker.1920.128.1600.900" x="553" y="258" />
     <location key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.1920.128.1600.900" x="2069" y="252" />
     <location key="StructurePopup.1920.128.1600.900" x="2676" y="407" />
     <location key="#Integration_on_server.1920.128.1600.900" x="2396" y="204" />
     <location key="#GelfTest.php.1920.128.1600.900" x="2507" y="290" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" x="85" y="157" />
+    <location key="DiffContextDialog.0.0.1920.1080" x="349" y="211" />
+    <location key="ProcessPopupWindow.1920.128.1600.900" x="3127" y="898" />
+    <location key="#InvestorControllerTest.1920.128.1600.900" x="2551" y="337" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.1920.128.1600.900" x="2069" y="252" />
+    <location key="NewPhpClassDialog.1920.128.1600.900" x="2549" y="435" />
+    <location key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1.1920.128.1600.900" x="2488" y="180" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.1920.128.1600.900" x="1974" y="421" />
+    <location key="ReplaceDuplicatesPrompt.1920.128.1600.900" x="2121" y="509" />
+    <location key="#Browse_JetBrains_Plugins_.1920.128.1600.900" x="2298" y="228" />
+    <location key="#Plugins.1920.128.1600.900" x="2315" y="218" />
+    <location key="PHPComposerAddDependencyDialogDimensionKey.1920.128.1600.900" x="2487" y="370" />
+    <location key="CommitChangelistDialog2.1920.128.1600.900" x="2385" y="323" />
     <size key="GridCell.Tab.0.bottom.1600.-180.1920.1080" width="2593" height="491" />
     <size key="GridCell.Tab.0.right.1600.-180.1920.1080" width="2593" height="491" />
     <size key="GridCell.Tab.0.center.1600.-180.1920.1080" width="2593" height="491" />
@@ -419,22 +432,22 @@
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.1600.0.1920.1080" width="1600" height="876" />
     <size key="findTextDialog.1920.128.1600.900" width="425" height="492" />
     <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1920.128.1600.900" width="324" height="767" />
-    <size key="VCS.ChangeListViewerDialog.1920.128.1600.900" width="424" height="546" />
+    <size key="VCS.ChangeListViewerDialog.1920.128.1600.900" width="424" height="574" />
     <size key="DiffWindow.1920.128.1600.900" width="1351" height="648" />
-    <size key="GridCell.Tab.0.left.1920.128.1600.900" width="1464" height="744" />
-    <size key="GridCell.Tab.0.center.1920.128.1600.900" width="1464" height="744" />
-    <size key="GridCell.Tab.0.right.1920.128.1600.900" width="1464" height="744" />
-    <size key="GridCell.Tab.0.bottom.1920.128.1600.900" width="1464" height="744" />
+    <size key="GridCell.Tab.0.left.1920.128.1600.900" width="1509" height="118" />
+    <size key="GridCell.Tab.0.center.1920.128.1600.900" width="1509" height="118" />
+    <size key="GridCell.Tab.0.right.1920.128.1600.900" width="1509" height="118" />
+    <size key="GridCell.Tab.0.bottom.1920.128.1600.900" width="1509" height="118" />
     <size key="OptionsEditor.1920.128.1600.900" width="1200" height="545" />
     <size key="FileChooserDialogImpl.1920.128.1600.900" width="424" height="462" />
-    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.128.1600.900" width="1600" height="876" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.1920.128.1600.900" width="1551" height="876" />
     <size key="replaceTextDialog.1920.128.1600.900" width="425" height="544" />
     <size key="#PammExtensionTest.dateOneStrangeDayDiff.1920.128.1600.900" width="665" height="690" />
     <size key="jetbrains.javascript.buildTools.run-task-popup.1920.128.1600.900" width="252" height="200" />
     <size key="DiffContextDialog.1920.128.1600.900" width="1341" height="705" />
     <size key="ComposerCompositePathDialog.1920.128.1600.900" width="575" height="234" />
     <size key="SymfonyPathDialog.1920.128.1600.900" width="333" height="118" />
-    <size key="SettingsEditor.1920.128.1600.900" width="962" height="688" />
+    <size key="SettingsEditor.1920.128.1600.900" width="981" height="688" />
     <size key="#Checker.1920.128.1600.900" width="665" height="664" />
     <size key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.1920.128.1600.900" width="1351" height="704" />
     <size key="Vcs.CompareWithSelectedRevision.Popup.1920.128.1600.900" width="465" height="420" />
@@ -442,17 +455,37 @@
     <size key="StructurePopup.1920.128.1600.900" width="135" height="365" />
     <size key="#Integration_on_server.1920.128.1600.900" width="687" height="742" />
     <size key="#GelfTest.php.1920.128.1600.900" width="464" height="570" />
-    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
-    <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
-    <extendedState key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" state="0" />
-    <extendedState key="DiffContextDialog" state="0" />
-    <extendedState key="DiffWindow" state="0" />
-    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
-    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="90" />
-    <extendedState key="DirDiffDialog" state="6" />
-    <extendedState key="dock-window-1" state="0" />
-    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" width="1551" height="876" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1466" height="638" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1466" height="638" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1466" height="638" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1466" height="638" />
+    <size key="DiffContextDialog.0.0.1920.1080" width="1341" height="705" />
+    <size key="javadoc.popup.1920.128.1600.900" width="446" height="163" />
+    <size key="ProcessPopupWindow.1920.128.1600.900" width="324" height="105" />
+    <size key="#InvestorControllerTest.1920.128.1600.900" width="675" height="633" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.1920.128.1600.900" width="1351" height="704" />
+    <size key="NewPhpClassDialog.1920.128.1600.900" width="448" height="335" />
+    <size key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1.1920.128.1600.900" width="502" height="848" />
+    <size key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.1920.128.1600.900" width="904" height="607" />
+    <size key="ReplaceDuplicatesPrompt.1920.128.1600.900" width="1237" height="132" />
+    <size key="#Browse_JetBrains_Plugins_.1920.128.1600.900" width="824" height="662" />
+    <size key="#Plugins.1920.128.1600.900" width="800" height="655" />
+    <size key="PHPComposerAddDependencyDialogDimensionKey.1920.128.1600.900" width="559" height="409" />
+    <size key="CommitChangelistDialog2.1920.128.1600.900" width="708" height="560" />
     <extendedState key="dock-window-3" state="0" />
     <extendedState key="dock-window-2" state="0" />
+    <extendedState key="dock-window-1" state="0" />
+    <extendedState key="DiffContextDialog" state="0" />
+    <extendedState key="DirDiffDialog" state="6" />
+    <extendedState key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="6" />
+    <extendedState key="DiffWindow" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="90" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
   </component>
 </application>

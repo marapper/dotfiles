@@ -1,49 +1,38 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>pamm</find>
-      <find>Pamm6</find>
-      <find>banners</find>
-      <find>embed</find>
-      <find>a</find>
-      <find>sitema</find>
-      <find>archive</find>
-      <find>manager</find>
-      <find>_manager_id_</find>
-      <find>pamm6_archive_pamms</find>
-      <find>forum_id</find>
-      <find>forumUserId</find>
-      <find>forum</find>
-      <find>footerLinks</find>
-      <find>sitem</find>
-      <find>sitemap</find>
-      <find>Gelf</find>
-      <find>Gelf\\</find>
-      <find>psr4</find>
-      <find>mlehner</find>
-      <find>gelf-php</find>
-      <find>psr</find>
-      <find>gelf</find>
-      <find>summary</find>
-      <find>accounts</find>
-      <find>input</find>
-      <find>id</find>
-      <find>setAdditional</find>
-      <find>webga</find>
-      <find>createX509CertCheck</find>
+      <find>## Rating of PAMM</find>
+      <find>stars_count_</find>
+      <find>ink</find>
+      <find>cats</find>
+      <find>|floor</find>
+      <find>stars__</find>
+      <find>roundUp</find>
+      <find>roundDo</find>
+      <find>&gt;&gt;&gt;&gt;</find>
+      <find>PortfolioList</find>
+      <find>portfolio_list</find>
+      <find>gtt.pamm6.sitemap.portfolio_list</find>
+      <find>compan</find>
+      <find>&quot;::blocks/</find>
+      <find>blocks</find>
+      <find>dateBlock</find>
+      <find>blocks/</find>
+      <find>formEl</find>
+      <find>select.start</find>
+      <find>blocks_new/select:select.html.twig</find>
+      <find>text</find>
+      <find>Page</find>
+      <find>js_ini</find>
+      <find>banner</find>
+      <find>Capital</find>
+      <find>Manager</find>
+      <find>cert</find>
+      <find>link</find>
+      <find>кшззд</find>
+      <find>ripple</find>
     </findStrings>
     <replaceStrings>
-      <replace>LastVersionWidget</replace>
-      <replace>service</replace>
-      <replace>Project</replace>
-      <replace>Development</replace>
-      <replace>Empty</replace>
-      <replace>from '</replace>
-      <replace>]($1)</replace>
-      <replace>this.store</replace>
-      <replace>liip_monitor.check</replace>
-      <replace>localhost</replace>
-      <replace>root</replace>
       <replace>this.cloneState</replace>
       <replace>&lt;StageProject</replace>
       <replace>&lt;ExternalProject</replace>
@@ -59,42 +48,53 @@
       <replace>self::STRICT_NO</replace>
       <replace>ExecutedCheck</replace>
       <replace>20</replace>
-      <replace>self::$</replace>
       <replace>this-&gt;getConf()</replace>
-      <replace>$this-&gt;</replace>
       <replace>protected</replace>
+      <replace>$1</replace>
+      <replace />
+      <replace>success(''</replace>
+      <replace>baseApi($1)</replace>
+      <replace>self::$</replace>
+      <replace>getMockBuilder</replace>
+      <replace>$this-&gt;</replace>
+      <replace>validate</replace>
+      <replace>@return $this</replace>
+      <replace>-&gt;success(</replace>
+      <replace>serviceName</replace>
+      <replace>service_api_transfer</replace>
+      <replace>Api</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>$USER_HOME$/Projects/my-ru/src/Gtt/StructuredProducts</dir>
-      <dir>$USER_HOME$/Projects/my-ru</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources/views/Rating/View/ViewType</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources/views/Portfolio</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/ImageTemplate</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources/public/js/rating/model/chat</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources/public/js/rating/view</dir>
-      <dir>$USER_HOME$/Projects/pamm6/vendor_composer/gtt/webgate-bundle</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources/public/js</dir>
-      <dir>$USER_HOME$/Projects/vaarwater/app/jsx</dir>
-      <dir>$USER_HOME$/Projects/pamm6/src/Gtt/Pamm/Service</dir>
-      <dir>$USER_HOME$/Projects/vaarwater/app/jsx/source</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources/public</dir>
-      <dir>$USER_HOME$/Projects/site-ru/app/config</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/StructuredProducts/Resources/config</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources/public/css</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources/views</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources/views/Rating</dir>
-      <dir>$USER_HOME$/Projects/pamm6/src</dir>
-      <dir>$USER_HOME$/Projects/pamm6/src/Gtt/Pamm/Command</dir>
-      <dir>$USER_HOME$/Projects/pamm6/src/Gtt/MigrationsVersion</dir>
-      <dir>$USER_HOME$/Projects/pamm6/src/Gtt/MigrationsVersion/Service</dir>
-      <dir>$USER_HOME$/Projects/pamm6</dir>
+      <dir>$USER_HOME$/Projects/pamm6/vendor_composer/gtt/gtt-common/src/Gtt/Component/Monitoring</dir>
+      <dir>$USER_HOME$/Projects/pamm6/src/Gtt/Pamm/Service/External</dir>
+      <dir>$USER_HOME$/Projects/pamm6/app/.git-template</dir>
+      <dir>$USER_HOME$/Projects/pamm6/src/Gtt/Pamm/Service/Api</dir>
+      <dir>$USER_HOME$/Projects/pamm6/src/Gtt/Pamm</dir>
+      <dir>$USER_HOME$/Projects/pamm6/vendor_composer/gtt/pamm6-client-bundle</dir>
+      <dir>$USER_HOME$/Projects/pamm6/src/Gtt/Pamm/Transaction</dir>
+      <dir>$USER_HOME$/Projects/pamm6/src/Gtt/Pamm/Tests</dir>
+      <dir>$USER_HOME$/Projects/pamm6/src/Gtt/Pamm/Entity</dir>
+      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Controller</dir>
+      <dir>$USER_HOME$/Projects/my-ru/src/Gtt/Pamm6</dir>
+      <dir>$USER_HOME$/Projects/pamm6/vendor_composer/gtt</dir>
+      <dir>$USER_HOME$/Projects/pamm6/src/Gtt</dir>
+      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources/translations</dir>
+      <dir>$USER_HOME$/Projects/my-ru/src/Gtt/Pamm6/Controller</dir>
+      <dir>$USER_HOME$/Projects/my-ru/src/Gtt/MutualFunds/Resources</dir>
+      <dir>$USER_HOME$/Projects/my-ru/app</dir>
+      <dir>$USER_HOME$/Projects/my-ru/src/Gtt/StructuredProducts/Resources/views</dir>
+      <dir>$USER_HOME$/Projects/my-ru/src/Gtt/StructuredProducts/Resources/views/Products</dir>
+      <dir>$USER_HOME$/Projects/my-ru/src/Gtt/Pamm6/Resources/translations</dir>
+      <dir>$USER_HOME$/Projects/my-ru/src/Gtt/Pamm6/Resources/views/Manager</dir>
       <dir>$USER_HOME$/Projects/pamm6/app/config</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src</dir>
-      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources/config</dir>
+      <dir>$USER_HOME$/Projects/pamm6/src/Gtt/Pamm/Service</dir>
+      <dir>$USER_HOME$/Projects/pamm6/src</dir>
+      <dir>$USER_HOME$/Projects/pamm6/vendor_composer/gtt/internal-auth-bundle</dir>
+      <dir>$USER_HOME$/Projects/my-ru/src</dir>
+      <dir>$USER_HOME$/Projects/site-ru/src/Gtt</dir>
       <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6</dir>
-      <dir>$USER_HOME$/Projects/site-ru/app/config/dev</dir>
-      <dir>$USER_HOME$/Projects/pamm6/vendor_composer/composer</dir>
+      <dir>$USER_HOME$/Projects/site-ru/src/Gtt/Pamm6/Resources</dir>
+      <dir>$USER_HOME$/Projects/site-ru/app</dir>
     </dirStrings>
   </component>
 </application>

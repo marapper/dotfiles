@@ -407,9 +407,6 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
-    <option name="JS.INSTANCE_MEMBER_VARIABLE">
-      <value />
-    </option>
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="c0c0c0" />

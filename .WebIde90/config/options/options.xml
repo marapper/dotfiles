@@ -36,20 +36,20 @@
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="LayoutCode.processChangedText" value="false" />
     <property name="dir.diff.panel.divider.location" value="367" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/site-ru/app/console&#10;/home/sbondar/Projects/pamm6/app/console&#10;/home/sbondar/Projects/vaarwater&#10;/home/sbondar/Projects/pamm6/bin/phpunit.phar&#10;/home/sbondar/Projects/msg-relay&#10;/home/sbondar/Projects/vaarwater-test&#10;/home/sbondar/Projects/funds&#10;/home/sbondar/Projects/ci_id_web&#10;/home/sbondar/Projects/pamm6/src/Gtt/Pamm/Tests/phpunit.xml&#10;/home/sbondar/Projects/rollo&#10;/home/sbondar/Projects/pamm6/app/phpunit.xml&#10;/home/sbondar/Projects/dev-configs&#10;/home/sbondar/Downloads/wallaby-intellij-v0.9.7.zip&#10;/home/sbondar/Projects/twgate&#10;/home/sbondar/Projects/pamm-old&#10;/home/sbondar/Projects/core-bundle&#10;/home/sbondar/Projects/platform&#10;/home/sbondar/Projects/ditf-client&#10;/home/sbondar/Projects/ditf-service&#10;/home/sbondar/Projects/gulp-mathmode&#10;/home/sbondar/Projects/Symfony&#10;/home/sbondar/Downloads/StringManipulation.jar&#10;/home/sbondar/Downloads/requirejs.jar&#10;/home/sbondar/Downloads/PhpInspectionsEA.jar&#10;/home/sbondar/Downloads/JSON_Formatter_6699.zip&#10;/home/sbondar/Downloads/BrowseWordAtCaret.jar&#10;/home/sbondar/Downloads/ClickableViews.jar&#10;/home/sbondar/Projects/grunt-mathmode&#10;/home/sbondar/Projects/sp&#10;/home/sbondar/Projects/retroMortis" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/ipb-forum-client-bundle&#10;/home/sbondar/Projects/pamm6/composer.json&#10;/home/sbondar/Downloads/frameworkMvcStructure-140.0.zip&#10;/home/sbondar/Downloads/symfony2-plugin.jar&#10;/home/sbondar/Downloads/wordPress-141.660.zip&#10;/home/sbondar/Downloads/php-di-plugin.jar&#10;/home/sbondar/Downloads/NodeJS-141.1108.zip&#10;/home/sbondar/Downloads/idea-markdown.zip&#10;/home/sbondar/Downloads/idea-gitignore.jar&#10;/home/sbondar/Downloads/eslint-plugin.jar&#10;/home/sbondar/Downloads/ClickableViews.jar&#10;/home/sbondar/Downloads/BrowseWordAtCaret.jar&#10;/home/sbondar/Downloads&#10;/home/sbondar/Projects/my-ru/app/phpunit.xml&#10;/home/sbondar/Projects/site-ru/app/console&#10;/home/sbondar/Projects/pamm6/app/console&#10;/home/sbondar/Projects/vaarwater&#10;/home/sbondar/Projects/pamm6/bin/phpunit.phar&#10;/home/sbondar/Projects/msg-relay&#10;/home/sbondar/Projects/vaarwater-test&#10;/home/sbondar/Projects/funds&#10;/home/sbondar/Projects/ci_id_web&#10;/home/sbondar/Projects/pamm6/src/Gtt/Pamm/Tests/phpunit.xml&#10;/home/sbondar/Projects/rollo&#10;/home/sbondar/Projects/pamm6/app/phpunit.xml&#10;/home/sbondar/Projects/dev-configs&#10;/home/sbondar/Downloads/wallaby-intellij-v0.9.7.zip&#10;/home/sbondar/Projects/twgate&#10;/home/sbondar/Projects/pamm-old&#10;/home/sbondar/Projects/core-bundle" />
     <property name="LayoutCode.rearrangeEntries" value="false" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="FindSplitterProportion" value="0.25" />
-    <property name="ColorChooser.RecentColors" value="83-78-0-255,,,0-0-0-255,,,42-48-203-255,,,36-76-247-255,,,10-164-247-255,,,106-247-38-255,,,247-53-134-255,,,247-54-58-255,,,247-246-81-255,,,0-214-227-255,,,143-143-143-255,,,90-90-90-255,,,174-174-174-255,,,49-212-0-255,,,247-33-176-255,,,209-0-12-255,,,247-243-19-255,,,166-69-64-255,,,138-46-28-255,,,195-124-65-255" />
+    <property name="ColorChooser.RecentColors" value="36-76-247-255,,,10-164-247-255,,,106-247-38-255,,,247-53-134-255,,,247-54-58-255,,,247-246-81-255,,,0-214-227-255,,,143-143-143-255,,,90-90-90-255,,,174-174-174-255,,,49-212-0-255,,,247-33-176-255,,,209-0-12-255,,,247-243-19-255,,,166-69-64-255,,,138-46-28-255,,,195-124-65-255,,,226-230-115-255,,,193-193-221-255,,,127-194-221-255" />
     <property name="SqlStructureView.SqlDdlStatement.file.structure.state" value="true" />
     <property name="RunConfigurable.dividerProportion" value="0.3" />
     <property name="null.previewExpanded" value="true" />
-    <property name="PLUGIN_FILTER" value="react&#10;gulp&#10;node&#10;req&#10;re" />
-    <property name="sm_test_statistics_table_columnsWidth0" value="32" />
+    <property name="PLUGIN_FILTER" value="annot&#10;symf&#10;ann&#10;sym&#10;react" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="43" />
     <property name="sm_test_statistics_table_columnsOrder0" value="0" />
-    <property name="sm_test_statistics_table_columnsWidth1" value="32" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="44" />
     <property name="sm_test_statistics_table_columnsOrder1" value="1" />
-    <property name="sm_test_statistics_table_columnsWidth2" value="31" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="44" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
     <property name="SMTestRunner.Splitter.Proportion" value="0.3602987" />
     <property name="PhpUnitSupport.showStatistics" value="true" />
@@ -75,8 +75,8 @@
     <property name="javascript.bower.node-interpreter" value="/usr/bin/node" />
     <property name="evlsprt3.PS-138.940" value="18" />
     <property name="ProjectStructure.SecondLevelElements" value="0.2" />
-    <property name="PhpUnit.Splitter.Proportion" value="0.10111576" />
-    <property name="PhpUnit.Splitter.Proportion_Statistics" value="0.925636" />
+    <property name="PhpUnit.Splitter.Proportion" value="0.29428172" />
+    <property name="PhpUnit.Splitter.Proportion_Statistics" value="0.8695247" />
     <property name="PhpUnitSupport.hidePassedTests" value="false" />
     <property name="linter-exe-file-path" value="/usr/local/bin/gjslint" />
     <property name="evlsprt.PS-138.940" value="14793285600" />
@@ -94,5 +94,9 @@
     <property name="MoveFile.OpenInEditor" value="true" />
     <property name="evlsprt.PS-141.792" value="14d78469080" />
     <property name="evlsprt2.PS-141.792" value="14d22cf324f" />
+    <property name="power.save.mode" value="false" />
+    <property name="evlsprt3.PS-141.1224" value="10" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="evlsprt3.PS-141.1306" value="18" />
   </component>
 </application>

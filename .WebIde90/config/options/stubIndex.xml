@@ -2,25 +2,16 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="php.method.shortName" />
+        <option value="php.trait.shortName" />
+        <option value="php.interface.shortName" />
+        <option value="php.class.shortName" />
         <option value="Scss.mixin" />
         <option value="Scss.function" />
         <option value="Scss.placeholder.selector" />
         <option value="Scss.variable" />
         <option value="Less.variables" />
         <option value="Less.mixins" />
-        <option value="php.namespace.shortName" />
-        <option value="php.variable.shortName" />
-        <option value="php.inheritors" />
-        <option value="php.use.shortName" />
-        <option value="php.constant.case.sensitive.shortName" />
-        <option value="php.constant.shortName" />
-        <option value="php.function.shortName" />
-        <option value="php.classConstant.shortName" />
-        <option value="php.field.shortName" />
-        <option value="php.method.shortName" />
-        <option value="php.trait.shortName" />
-        <option value="php.interface.shortName" />
-        <option value="php.class.shortName" />
         <option value="JS.subclass.stub.index" />
         <option value="js.namespace.index" />
         <option value="js.class.index2" />
@@ -41,6 +32,15 @@
         <option value="sql.table.shortName" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="php.namespace.shortName" />
+        <option value="php.variable.shortName" />
+        <option value="php.inheritors" />
+        <option value="php.use.shortName" />
+        <option value="php.constant.case.sensitive.shortName" />
+        <option value="php.constant.shortName" />
+        <option value="php.function.shortName" />
+        <option value="php.classConstant.shortName" />
+        <option value="php.field.shortName" />
       </list>
     </option>
   </component>

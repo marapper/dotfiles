@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory '/home/sbondar/Projects/pamm6/src'" />
     <option name="defaultScopeName" value="Directory '/home/sbondar/Projects/pamm6/src'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/home/sbondar/Projects/pamm6/src'" />
-    <option name="FILE_MASK" value="composer.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,9 +19,10 @@
       <mask>*.js</mask>
       <mask>*.html.twig</mask>
       <mask>*.php</mask>
+      <mask>composer.json</mask>
+      <mask>*.xliff</mask>
       <mask>*.xml</mask>
       <mask>*.yml</mask>
-      <mask>composer.json</mask>
     </recentFileMasks>
   </component>
 </application>
