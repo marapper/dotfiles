@@ -1,6 +1,8 @@
 set blink-matching-parent on
 set completion-ignore-case on
+set match-hidden-files off
 
+set page-completions off
 set completion-query-items 40
 
 "\e[A": history-search-backward

@@ -55,6 +55,7 @@ PATH=/usr/local/mysql/bin:$PATH
 
 # don't put duplicate lines in the history
 export HISTCONTROL=ignoreboth:erasedups
+export HISTTIMEFORMAT="[%F %T] "
 # set history length
 HISTFILESIZE=100000
 HISTSIZE=100000
@@ -385,3 +386,53 @@ echo -e ""; cal ;
 echo -ne "Up time:";uptime | awk /'up/'
 echo "";
 
+
+
+# Allow prompt to be restored to default.
+if [[ "${#__PROMPT_DEFAULT[@]}" == 0 ]]; then
+  __PROMPT_DEFAULT=("$PS1" "$PS2" "$PS3" "$PS4")
+fi
+
+# The default prompt.
+function prompt_default() {
+  unset PROMPT_COMMAND
+  for i in {1..4}; do
+    eval "PS$i='${__PROMPT_DEFAULT[i-1]}'"
+  done
+}
+
+# An uber-simple prompt for demos / screenshots.
+function prompt_zero() {
+  prompt_default
+  PS1='$ '
+}
+
+# "fuck" https://github.com/nvbn/thefuck
+if [[ "$(which thefuck)" ]]; then
+  eval $(thefuck --alias)
+fi
+
+
+# Run a command repeatedly in a loop, with a delay (defaults to 1 sec).
+# Usage:
+#   loop [delay] single_command [args]
+#   loopc [delay] 'command1 [args]; command2 [args]; ...'
+# Note, these do the same thing:
+#   loop 5 bash -c 'echo foo; echo bar;
+#   loopc 5 'echo foo; echo bar'
+function loopc() { loop "$@"; }
+function loop() {
+  local caller=$(caller 0 | awk '{print $2}')
+  local delay=1
+  if [[ $1 =~ ^[0-9]*(\.[0-9]+)?$ ]]; then
+    delay=$1
+    shift
+  fi
+  while true; do
+    if [[ "$caller" == "loopc" ]]; then
+      bash -c "$@"
+    else
+      "$@"
+    fi
+    sleep $delay
+  done
